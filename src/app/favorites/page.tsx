@@ -1,16 +1,25 @@
 "use client";
 
-import { useMemo } from "react";
+import { useState, useMemo } from "react";
 import { Heart } from "lucide-react";
 import { events, days, timeToMinutes, isEventComplete } from "@/lib/events";
-import { DAY_LABELS_WITH_DATE } from "@/lib/constants";
+import type { FilterState } from "@/lib/types";
 import { useFavorites } from "@/hooks/useFavorites";
 import { useCurrentTime } from "@/hooks/useCurrentTime";
-import EventCard from "@/components/EventCard";
+import FilterBar from "@/components/FilterBar";
+import EventList from "@/components/EventList";
 
 export default function FavoritesPage() {
   const { favoriteIds, isFavorite, toggle, hydrated } = useFavorites();
   const now = useCurrentTime();
+
+  const [filters, setFilters] = useState<FilterState>({
+    day: null,
+    building: null,
+    ageRating: null,
+    tag: null,
+    searchQuery: "",
+  });
 
   const favoriteEvents = useMemo(() => {
     if (!hydrated) return [];
@@ -25,16 +34,6 @@ export default function FavoritesPage() {
       });
   }, [favoriteIds, hydrated, now]);
 
-  // Group by day
-  const grouped = useMemo(() => {
-    const map = new Map<string, typeof favoriteEvents>();
-    for (const e of favoriteEvents) {
-      if (!map.has(e.day)) map.set(e.day, []);
-      map.get(e.day)!.push(e);
-    }
-    return [...map.entries()];
-  }, [favoriteEvents]);
-
   if (!hydrated) {
     return (
       <div className="flex items-center justify-center py-32">
@@ -46,13 +45,13 @@ export default function FavoritesPage() {
   if (favoriteEvents.length === 0) {
     return (
       <div className="flex flex-col items-center justify-center px-8 py-24 text-center">
-        <div className="mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-pink-50">
-          <Heart size={28} className="text-pink-300" />
+        <div className="mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-pink-50 dark:bg-pink-950/30">
+          <Heart size={28} className="text-pink-300 dark:text-pink-600" />
         </div>
-        <p className="text-lg font-semibold text-stone-600">
+        <p className="text-lg font-semibold text-stone-600 dark:text-stone-300">
           No upcoming events
         </p>
-        <p className="mt-2 text-sm leading-relaxed text-stone-400">
+        <p className="mt-2 text-sm leading-relaxed text-stone-400 dark:text-stone-500">
           Tap the heart icon on any event in the Schedule tab to save it here.
           Completed events are automatically hidden.
         </p>
@@ -61,26 +60,14 @@ export default function FavoritesPage() {
   }
 
   return (
-    <div className="space-y-4 px-4 pb-28 pt-4">
-      {grouped.map(([day, dayEvents]) => (
-        <div key={day}>
-          <div className="mb-2 px-1">
-            <span className="text-xs font-bold uppercase tracking-wider text-pink-500">
-              {DAY_LABELS_WITH_DATE[day] || day}
-            </span>
-          </div>
-          <div className="space-y-2">
-            {dayEvents.map((event) => (
-              <EventCard
-                key={event.id}
-                event={event}
-                isFavorite={isFavorite(event.id)}
-                onToggleFavorite={() => toggle(event.id)}
-              />
-            ))}
-          </div>
-        </div>
-      ))}
-    </div>
+    <>
+      <FilterBar filters={filters} onChange={setFilters} />
+      <EventList
+        events={favoriteEvents}
+        filters={filters}
+        isFavorite={isFavorite}
+        onToggleFavorite={toggle}
+      />
+    </>
   );
 }

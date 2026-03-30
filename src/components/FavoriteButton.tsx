@@ -25,7 +25,7 @@ export default function FavoriteButton({
         className={`transition-all ${
           isFavorite
             ? "fill-pink-500 text-pink-500 scale-110"
-            : "text-stone-300 hover:text-pink-300"
+            : "text-stone-300 hover:text-pink-300 dark:text-stone-600 dark:hover:text-pink-400"
         }`}
       />
     </button>

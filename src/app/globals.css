@@ -1,19 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300..700;1,9..40,300..700&family=Outfit:wght@400;500;600;700;800&display=swap');
 @import "tailwindcss";
 
+@variant dark (&:is(.dark *));
+
 @theme inline {
   --font-display: 'Outfit', sans-serif;
   --font-body: 'DM Sans', sans-serif;
 }
 
-:root {
-  --background: #fffbfc;
-  --foreground: #1c1917;
-}
-
 body {
-  background: var(--background);
-  color: var(--foreground);
   font-family: var(--font-body);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -23,20 +18,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-display);
 }
 
-/* Bottom safe area for mobile */
 .safe-bottom {
   padding-bottom: env(safe-area-inset-bottom, 0px);
 }
 
-/* Subtle sakura petal background pattern */
-.sakura-bg {
-  background-image:
-    radial-gradient(ellipse at 20% 20%, rgba(244, 114, 182, 0.06) 0%, transparent 50%),
-    radial-gradient(ellipse at 80% 80%, rgba(244, 114, 182, 0.04) 0%, transparent 50%),
-    radial-gradient(ellipse at 50% 50%, rgba(251, 207, 232, 0.03) 0%, transparent 70%);
-}
-
-/* Custom scrollbar */
 ::-webkit-scrollbar {
   width: 0px;
 }

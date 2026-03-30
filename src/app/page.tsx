@@ -11,6 +11,8 @@ export default function SchedulePage() {
   const [filters, setFilters] = useState<FilterState>({
     day: "Fri",
     building: null,
+    ageRating: null,
+    tag: null,
     searchQuery: "",
   });
 

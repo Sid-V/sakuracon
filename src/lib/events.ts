@@ -29,6 +29,12 @@ export const buildings = [...new Set(events.map((e) => e.building))].sort();
 // Get unique days in order
 export const days: ("Fri" | "Sat" | "Sun")[] = ["Fri", "Sat", "Sun"];
 
+// Get unique age ratings in display order
+export const ageRatings = ["All Ages", "10+", "13+", "18+"];
+
+// Get unique tags
+export const tags = [...new Set(events.flatMap((e) => e.tags))].sort();
+
 // Format time range for display
 export function formatTimeRange(start: string, end: string): string {
   return `${start} – ${end}`;

@@ -23,19 +23,19 @@ function generateId(day: string, startTime: string, title: string, location: str
   return hash.substring(0, 8);
 }
 
-function parseLocationLine(line: string): { location: string; tags: string[] } {
+function parseLocationLine(line: string): { location: string; tags: string[]; ageRating: string | null } {
   const tags: string[] = [];
-
-  // Extract tags marked with bullet "•"
-  // e.g. "Dreamland Maid Cafe - Elliot Bay Room • Cultural Panel [All Ages]"
-  // e.g. "Charity Auction • Charity Auction"
-  // e.g. "Autographs - Flex A and B • Autographs"
+  let ageRating: string | null = null;
   let locationPart = line;
 
-  // Remove age rating bracket at end: [All Ages], [10+], [13+], [18+]
-  locationPart = locationPart.replace(/\s*\[(?:All Ages|\d+\+)\]\s*$/, "");
+  // Extract age rating bracket at end: [All Ages], [10+], [13+], [18+]
+  const ageMatch = locationPart.match(/\s*\[(All Ages|\d+\+)\]\s*$/);
+  if (ageMatch) {
+    ageRating = ageMatch[1];
+    locationPart = locationPart.substring(0, ageMatch.index!);
+  }
 
-  // Extract tags after bullet
+  // Extract tags after bullet "•"
   const bulletIdx = locationPart.indexOf("•");
   if (bulletIdx !== -1) {
     const tagStr = locationPart.substring(bulletIdx + 1).trim();
@@ -45,13 +45,12 @@ function parseLocationLine(line: string): { location: string; tags: string[] } {
     locationPart = locationPart.substring(0, bulletIdx).trim();
   }
 
-  // If location is empty after removing tag (e.g. "Charity Auction • Charity Auction")
-  // use the tag as the location
+  // If location is empty after removing tag, use the tag as the location
   if (!locationPart && tags.length > 0) {
     locationPart = tags[0];
   }
 
-  return { location: locationPart, tags };
+  return { location: locationPart, tags, ageRating };
 }
 
 function parse(): ConEvent[] {
@@ -129,6 +128,7 @@ function parse(): ConEvent[] {
         endTime: endTime.trim(),
         building: currentBuilding,
         location: "",
+        ageRating: null,
         tags: [],
       };
       continue;
@@ -136,9 +136,10 @@ function parse(): ConEvent[] {
 
     // If we have a pending event with no location yet, this line is the location
     if (pendingEvent && !pendingEvent.location) {
-      const { location, tags } = parseLocationLine(line.trim());
+      const { location, tags, ageRating } = parseLocationLine(line.trim());
       pendingEvent.location = location;
       pendingEvent.tags = tags;
+      pendingEvent.ageRating = ageRating;
       continue;
     }
 

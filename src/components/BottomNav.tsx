@@ -2,18 +2,19 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { CalendarDays, Heart } from "lucide-react";
+import { CalendarDays, Map, Heart } from "lucide-react";
 
 export default function BottomNav() {
   const pathname = usePathname();
 
   const tabs = [
     { href: "/", label: "Schedule", icon: CalendarDays },
+    { href: "/maps", label: "Maps", icon: Map },
     { href: "/favorites", label: "My Events", icon: Heart },
   ];
 
   return (
-    <nav className="fixed bottom-0 left-0 right-0 z-50 border-t border-pink-200/30 bg-white/80 backdrop-blur-xl safe-bottom">
+    <nav className="fixed bottom-0 left-0 right-0 z-50 border-t border-pink-200/30 bg-white/80 backdrop-blur-xl safe-bottom dark:border-stone-800/50 dark:bg-stone-950/80">
       <div className="mx-auto flex max-w-lg">
         {tabs.map((tab) => {
           const isActive =
@@ -26,8 +27,8 @@ export default function BottomNav() {
               href={tab.href}
               className={`flex flex-1 flex-col items-center gap-0.5 py-2.5 transition-colors ${
                 isActive
-                  ? "text-pink-600"
-                  : "text-stone-400 active:text-pink-400"
+                  ? "text-pink-600 dark:text-pink-400"
+                  : "text-stone-400 active:text-pink-400 dark:text-stone-500"
               }`}
             >
               <tab.icon

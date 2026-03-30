@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Petals -->
+  <g>
+    <!-- Top petal -->
+    <ellipse cx="50" cy="28" rx="14" ry="20" fill="#F9A8D4" transform="rotate(0 50 50)"/>
+    <!-- Top-right petal -->
+    <ellipse cx="50" cy="28" rx="14" ry="20" fill="#F9A8D4" transform="rotate(72 50 50)"/>
+    <!-- Bottom-right petal -->
+    <ellipse cx="50" cy="28" rx="14" ry="20" fill="#F9A8D4" transform="rotate(144 50 50)"/>
+    <!-- Bottom-left petal -->
+    <ellipse cx="50" cy="28" rx="14" ry="20" fill="#F9A8D4" transform="rotate(216 50 50)"/>
+    <!-- Top-left petal -->
+    <ellipse cx="50" cy="28" rx="14" ry="20" fill="#F9A8D4" transform="rotate(288 50 50)"/>
+  </g>
+  <!-- Inner petal highlights -->
+  <g>
+    <ellipse cx="50" cy="32" rx="8" ry="12" fill="#FBCFE8" transform="rotate(0 50 50)"/>
+    <ellipse cx="50" cy="32" rx="8" ry="12" fill="#FBCFE8" transform="rotate(72 50 50)"/>
+    <ellipse cx="50" cy="32" rx="8" ry="12" fill="#FBCFE8" transform="rotate(144 50 50)"/>
+    <ellipse cx="50" cy="32" rx="8" ry="12" fill="#FBCFE8" transform="rotate(216 50 50)"/>
+    <ellipse cx="50" cy="32" rx="8" ry="12" fill="#FBCFE8" transform="rotate(288 50 50)"/>
+  </g>
+  <!-- Center -->
+  <circle cx="50" cy="50" r="10" fill="#EC4899"/>
+  <!-- Center dots (stamen) -->
+  <circle cx="50" cy="43" r="2" fill="#FACC15"/>
+  <circle cx="56.7" cy="46.5" r="2" fill="#FACC15"/>
+  <circle cx="54.1" cy="53.5" r="2" fill="#FACC15"/>
+  <circle cx="45.9" cy="53.5" r="2" fill="#FACC15"/>
+  <circle cx="43.3" cy="46.5" r="2" fill="#FACC15"/>
+</svg>
