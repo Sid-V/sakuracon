@@ -4345,10 +4345,10 @@ Americans first encountered the series thanks to the ADV localization, but what 
 What was the first translation of Neon...
 Sun 11:30 AM – 12:30
 PM
-```
-```
-Emi Nitta Concert
+Sun 11:30 AM – 1:00 PM Emi Nitta Concert
 Summit Stage [All Ages]
+```
+```
 Sun 11:30 AM – 1:00 PM Fabrication for Cosplay: 3D Printing and Laser Cutting
 Summit Prog Panels - 345-346 [All Ages]
 Are you having trouble getting the quality you want from your 3D-printed props? Or maybe you want to learn

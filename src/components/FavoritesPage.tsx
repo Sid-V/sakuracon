@@ -7,8 +7,10 @@ import type { FilterState } from "@/lib/types";
 import { useFavorites } from "@/hooks/useFavorites";
 import { useCurrentTime } from "@/hooks/useCurrentTime";
 import { useScrollDirection } from "@/hooks/useScrollDirection";
+import { useReminders } from "@/hooks/useReminders";
 import FilterBar from "@/components/FilterBar";
 import EventList from "@/components/EventList";
+import ReminderToggle from "@/components/ReminderToggle";
 
 export default function FavoritesPage() {
   const { favoriteIds, isFavorite, toggle, hydrated } = useFavorites();
@@ -23,6 +25,7 @@ export default function FavoritesPage() {
   });
   const scrollDirection = useScrollDirection({ downThreshold: 10, upThreshold: 80 });
   const filterBarHidden = scrollDirection === "down";
+  const reminders = useReminders(favoriteIds);
 
   const favoriteEvents = useMemo(() => {
     if (!hydrated) return [];
@@ -64,6 +67,13 @@ export default function FavoritesPage() {
 
   return (
     <>
+      <ReminderToggle
+        enabled={reminders.remindersEnabled}
+        permissionState={reminders.permissionState}
+        onEnable={reminders.enableReminders}
+        onDisable={reminders.disableReminders}
+        onTest={reminders.sendTestNotification}
+      />
       <FilterBar filters={filters} onChange={setFilters} hidden={filterBarHidden} />
       <EventList
         events={favoriteEvents}

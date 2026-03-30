@@ -23,7 +23,12 @@ export const metadata: Metadata = {
     "sakura-con events",
     "sakura-con panels",
   ],
-  icons: { icon: "/logo.svg" },
+  icons: { icon: "/logo.svg", apple: "/icon-192.png" },
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "black-translucent",
+    title: "Sakura-Con",
+  },
   openGraph: {
     title: "Sakura-Con 2026 Schedule",
     description:
@@ -52,6 +57,7 @@ export const viewport: Viewport = {
 // Inline script to prevent flash of wrong theme
 // Default to dark mode. Only go light if explicitly set to "light".
 const themeScript = `(function(){try{var t=localStorage.getItem("sakuracon-theme");if(t!=="light"){document.documentElement.classList.add("dark")}}catch(e){document.documentElement.classList.add("dark")}})()`;
+const swScript = `if("serviceWorker"in navigator){navigator.serviceWorker.register("/sw.js")}`;
 
 export default function RootLayout({
   children,
@@ -62,6 +68,7 @@ export default function RootLayout({
     <html lang="en" className="h-full" suppressHydrationWarning>
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
+        <script dangerouslySetInnerHTML={{ __html: swScript }} />
       </head>
       <body className="min-h-full bg-[#fffbfc] text-stone-900 dark:bg-stone-950 dark:text-stone-100">
         {/* Header */}
