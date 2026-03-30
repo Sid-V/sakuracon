@@ -11,6 +11,7 @@ interface EventListProps {
   filters: FilterState;
   isFavorite: (id: string) => boolean;
   onToggleFavorite: (id: string) => void;
+  filterBarVisible?: boolean;
 }
 
 export default function EventList({
@@ -18,6 +19,7 @@ export default function EventList({
   filters,
   isFavorite,
   onToggleFavorite,
+  filterBarVisible = true,
 }: EventListProps) {
   const filtered = useMemo(() => {
     let result = events;
@@ -87,7 +89,7 @@ export default function EventList({
 
         return (
           <div key={key}>
-            <div className="sticky top-[270px] z-30 -mx-4 mb-2 bg-white/70 px-4 py-1.5 backdrop-blur-md dark:bg-stone-950/70">
+            <div className={`sticky z-30 -mx-4 mb-2 bg-white/70 px-4 py-1.5 backdrop-blur-md dark:bg-stone-950/70 transition-[top] duration-300 ease-out ${filterBarVisible ? "top-[270px]" : "top-[54px]"}`}>
               <span className="text-xs font-bold uppercase tracking-wider text-pink-500 dark:text-pink-400">
                 {showDayHeaders ? `${DAY_LABELS[day] || day} · ${time}` : time}
               </span>

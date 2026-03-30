@@ -6,6 +6,7 @@ import { events, days, timeToMinutes, isEventComplete } from "@/lib/events";
 import type { FilterState } from "@/lib/types";
 import { useFavorites } from "@/hooks/useFavorites";
 import { useCurrentTime } from "@/hooks/useCurrentTime";
+import { useScrollDirection } from "@/hooks/useScrollDirection";
 import FilterBar from "@/components/FilterBar";
 import EventList from "@/components/EventList";
 
@@ -20,6 +21,8 @@ export default function FavoritesPage() {
     tag: null,
     searchQuery: "",
   });
+  const scrollDirection = useScrollDirection({ downThreshold: 10, upThreshold: 80 });
+  const filterBarHidden = scrollDirection === "down";
 
   const favoriteEvents = useMemo(() => {
     if (!hydrated) return [];
@@ -61,12 +64,13 @@ export default function FavoritesPage() {
 
   return (
     <>
-      <FilterBar filters={filters} onChange={setFilters} />
+      <FilterBar filters={filters} onChange={setFilters} hidden={filterBarHidden} />
       <EventList
         events={favoriteEvents}
         filters={filters}
         isFavorite={isFavorite}
         onToggleFavorite={toggle}
+        filterBarVisible={!filterBarHidden}
       />
     </>
   );

@@ -8,6 +8,7 @@ import { BUILDING_THEME, DAY_LABELS, AGE_RATING_THEME } from "@/lib/constants";
 interface FilterBarProps {
   filters: FilterState;
   onChange: (filters: FilterState) => void;
+  hidden?: boolean;
 }
 
 function Pill({
@@ -37,7 +38,7 @@ function Pill({
 
 const labelClass = "w-12 shrink-0 text-[10px] font-bold uppercase tracking-wider text-stone-400 dark:text-stone-500";
 
-export default function FilterBar({ filters, onChange }: FilterBarProps) {
+export default function FilterBar({ filters, onChange, hidden }: FilterBarProps) {
   const setDay = (day: "Fri" | "Sat" | "Sun") =>
     onChange({ ...filters, day: filters.day === day ? null : day });
 
@@ -54,7 +55,7 @@ export default function FilterBar({ filters, onChange }: FilterBarProps) {
     onChange({ ...filters, searchQuery: q });
 
   return (
-    <div className="sticky top-[54px] z-40 space-y-2 bg-white/90 px-4 pb-3 pt-2 backdrop-blur-lg dark:bg-stone-950/90">
+    <div className={`sticky top-[54px] z-40 space-y-2 bg-white/90 px-4 pb-3 pt-2 backdrop-blur-lg dark:bg-stone-950/90 transition-transform duration-300 ease-out ${hidden ? "-translate-y-full pointer-events-none" : "translate-y-0"}`}>
       {/* Search */}
       <div className="relative">
         <Search
