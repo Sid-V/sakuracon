@@ -1,36 +1,12 @@
-"use client";
+import type { Metadata } from "next";
+import SchedulePage from "@/components/SchedulePage";
 
-import { useState } from "react";
-import { events } from "@/lib/events";
-import type { FilterState } from "@/lib/types";
-import { useFavorites } from "@/hooks/useFavorites";
-import { useScrollDirection } from "@/hooks/useScrollDirection";
-import FilterBar from "@/components/FilterBar";
-import EventList from "@/components/EventList";
+export const metadata: Metadata = {
+  title: "Schedule",
+  description:
+    "Full event schedule for Sakura-Con 2026 — browse panels, workshops, screenings, and more. Filter by day, venue, age rating, and tags.",
+};
 
-export default function SchedulePage() {
-  const [filters, setFilters] = useState<FilterState>({
-    day: "Fri",
-    building: null,
-    ageRating: null,
-    tag: null,
-    searchQuery: "",
-  });
-
-  const { isFavorite, toggle } = useFavorites();
-  const scrollDirection = useScrollDirection({ downThreshold: 10, upThreshold: 80 });
-  const filterBarHidden = scrollDirection === "down";
-
-  return (
-    <>
-      <FilterBar filters={filters} onChange={setFilters} hidden={filterBarHidden} />
-      <EventList
-        events={events}
-        filters={filters}
-        isFavorite={isFavorite}
-        onToggleFavorite={toggle}
-        filterBarVisible={!filterBarHidden}
-      />
-    </>
-  );
+export default function Page() {
+  return <SchedulePage />;
 }

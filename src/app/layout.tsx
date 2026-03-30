@@ -3,11 +3,42 @@ import Image from "next/image";
 import "./globals.css";
 import BottomNav from "@/components/BottomNav";
 import ThemeToggle from "@/components/ThemeToggle";
+import InfoPopover from "@/components/InfoPopover";
 
 export const metadata: Metadata = {
-  title: "Sakura-Con 2026",
-  description: "Event schedule for Sakura-Con 2026 — April 3–5, Seattle",
+  metadataBase: new URL("https://sakuracon.vercel.app"),
+  title: {
+    default: "Sakura-Con 2026 Schedule",
+    template: "%s | Sakura-Con 2026",
+  },
+  description:
+    "Browse the full Sakura-Con 2026 event schedule — April 3–5, Seattle Convention Center. Filter by day, venue, age rating, and tags. Save your favorite panels, workshops, and events.",
+  keywords: [
+    "sakura-con",
+    "sakuracon",
+    "sakura con 2026",
+    "sakura-con schedule",
+    "sakuracon schedule",
+    "anime convention seattle",
+    "sakura-con events",
+    "sakura-con panels",
+  ],
   icons: { icon: "/logo.svg" },
+  openGraph: {
+    title: "Sakura-Con 2026 Schedule",
+    description:
+      "Browse the full Sakura-Con 2026 event schedule — April 3–5, Seattle. Filter by day, venue, and tags. Save your favorites.",
+    url: "https://sakuracon.vercel.app",
+    siteName: "Sakura-Con 2026 Schedule",
+    images: "/logo.svg",
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: "Sakura-Con 2026 Schedule",
+    description:
+      "Browse the full Sakura-Con 2026 event schedule — April 3–5, Seattle. Filter by day, venue, and tags. Save your favorites.",
+  },
 };
 
 export const viewport: Viewport = {
@@ -53,6 +84,7 @@ export default function RootLayout({
               </p>
             </div>
             <ThemeToggle />
+            <InfoPopover />
           </div>
         </header>
 
