@@ -47,7 +47,7 @@ export default function ReminderInfo() {
                 Android (Chrome)
               </p>
               <p className="text-xs leading-relaxed text-stone-500 dark:text-stone-400">
-                Just enable the toggle and allow notifications when prompted. Test Reminder. That&apos;s it!
+                Just enable the toggle and allow notifications when prompted. Test Reminder.
               </p>
             </div>
 
@@ -57,7 +57,7 @@ export default function ReminderInfo() {
               </p>
               <ol className="list-inside list-decimal space-y-1 text-xs leading-relaxed text-stone-500 dark:text-stone-400">
                 <li>
-                  Tap the <span className="font-semibold text-stone-600 dark:text-stone-300">Share</span> button in Safari (square with arrow)
+                  Tap the <span className="font-semibold text-stone-600 dark:text-stone-300">Share</span> button in Safari
                 </li>
                 <li>
                   Tap <span className="font-semibold text-stone-600 dark:text-stone-300">Add to Home Screen</span>
@@ -66,6 +66,9 @@ export default function ReminderInfo() {
                 <li>Come back here and enable reminders</li>
                 <li>Test Reminder</li>
               </ol>
+              <p className="mt-2 text-[10px] italic text-stone-400 dark:text-stone-500">
+                Note: Keep the 'app' open in the background — iOS may miss reminders if the app is fully closed or removed from recent apps.
+              </p>
             </div>
           </div>
         </div>

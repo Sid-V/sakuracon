@@ -34,12 +34,12 @@ export default function InfoPopover() {
             Enjoying the app? Fuel my Artist alley spend!
           </p>
           <a
-            href="https://linktr.ee/sidv5"
+            href="https://venmo.com/u/Sidharth_V"
             target="_blank"
             rel="noopener noreferrer"
             className="mt-2 flex items-center justify-center gap-1.5 rounded-lg bg-pink-500 px-3 py-1.5 text-xs font-semibold text-white transition-colors hover:bg-pink-600 active:scale-95"
           >
-            Linktree &rarr;
+            Donate ☕ &rarr;
           </a>
         </div>
       )}

@@ -98,7 +98,17 @@ export function useReminders(favoriteIds: Set<string>) {
 
     check();
     const id = setInterval(check, POLL_INTERVAL_MS);
-    return () => clearInterval(id);
+
+    // Re-check immediately when the app returns to foreground (catches missed reminders on iOS)
+    const onVisible = () => {
+      if (document.visibilityState === "visible") check();
+    };
+    document.addEventListener("visibilitychange", onVisible);
+
+    return () => {
+      clearInterval(id);
+      document.removeEventListener("visibilitychange", onVisible);
+    };
   }, [enabled, hydrated, favoriteIds]);
 
   const enableReminders = useCallback(async () => {
