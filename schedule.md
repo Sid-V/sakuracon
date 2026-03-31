@@ -4347,7 +4347,7 @@ Sun 11:30 AM – 12:30
 PM
 Sun 11:30 AM – 1:00 PM Emi Nitta Concert
 Summit Stage [All Ages]
-Sun 5:30 PM – 8:30 PM TEST Notification Reminder Event
+Sun 5:17 PM – 6:30 PM TEST Notification Reminder Event
 Summit Stage [All Ages]
 This is a test event to verify notifications work. Delete after testing.
 ```
