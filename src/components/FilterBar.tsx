@@ -135,7 +135,7 @@ export default function FilterBar({ filters, onChange, hidden }: FilterBarProps)
             ))}
           </div>
           <p className="mt-1 text-[9px] text-stone-400 dark:text-stone-500">
-            Not all events have tags (use with caution)
+            There may be errors in the event data. Not all events have tags (use with caution)
           </p>
         </div>
       </div>

@@ -47,7 +47,7 @@ export default function ReminderInfo() {
                 Android (Chrome)
               </p>
               <p className="text-xs leading-relaxed text-stone-500 dark:text-stone-400">
-                Just enable the toggle and allow notifications when prompted. That&apos;s it!
+                Just enable the toggle and allow notifications when prompted. Test Reminder. That&apos;s it!
               </p>
             </div>
 
@@ -64,6 +64,7 @@ export default function ReminderInfo() {
                 </li>
                 <li>Open the app from your home screen</li>
                 <li>Come back here and enable reminders</li>
+                <li>Test Reminder</li>
               </ol>
             </div>
           </div>
