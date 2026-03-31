@@ -6,7 +6,7 @@ import type { ConEvent } from "../src/lib/types";
 const DAY_ABBREV_MAP: Record<string, { day: "Fri" | "Sat" | "Sun"; date: string }> = {
   Fri: { day: "Fri", date: "2026-04-03" },
   Sat: { day: "Sat", date: "2026-04-04" },
-  Sun: { day: "Sun", date: "2026-03-30" },
+  Sun: { day: "Sun", date: "2026-04-05" },
 };
 
 // Same-day event: "Fri 10:00 AM – 11:00 AM Event Title"
