@@ -4,7 +4,7 @@
 
 ## April 3 – 5, 2026
 
-###### Washington State Convention Center • Seattle, WA
+Washington State Convention Center • Seattle, WA
 
 Times and events are subject to change. For the latest maps and information, use the Eventeny App.
 
@@ -15,34 +15,34 @@ Times and events are subject to change. For the latest maps and information, use
 
 ##### Friday, April 3
 
-###### Arch page 4
+Arch page 4
 
-###### Arch Tower page 14
+Arch Tower page 14
 
-###### Summit page 24
+Summit page 25
 
 ##### Saturday, April 4
 
-###### Arch page 32
+Arch page 33
 
-###### Arch Tower page 43
+Arch Tower page 44
 
-###### Summit page 54
+Summit page 56
 
 ##### Sunday, April 5
 
-###### Arch page 62
+Arch page 64
 
-###### Arch Tower page 67
+Arch Tower page 69
 
-###### Summit page 72
+Summit page 75
 
-###### Building Color Key
+Building Colour Key
 
 ```
 Arch Arch Tower Summit
 ```
-###### Age Rating Legend
+Age Rating Legend
 
 ```
 All Ages 10+ 13+ 18+
@@ -54,59 +54,100 @@ Hours of Operation p. 3
 
 Open hours for key venues. Hours subject to change; additional programming may run later than listed.
 
-##### Registration
+###### Registration
 
 ```
 Summit – Flex C
 ```
+```
 Thursday, April 2 12:00 PM – 10:00 PM
-
+```
+```
 Friday, April 3 6:00 AM – 10:00 PM
-
+```
+```
 Saturday, April 4 6:00 AM – 10:00 AM
-
+```
+```
 Sunday, April 5 8:00 AM – 12:00 PM
-
-##### Exhibits Hall
+```
+###### Exhibits Hall
 
 ```
 Summit – Lower Level (LL)
 ```
+```
 Friday, April 3 10:00 AM – 6:00 PM
-
+```
+```
 Saturday, April 4 10:00 AM – 6:00 PM
-
+```
+```
 Sunday, April 5 10:00 AM – 4:00 PM
-
-##### Artist Alley
+```
+###### Artist Alley
 
 ```
 Arch – 4EF
 ```
+```
 Friday, April 3 11:00 AM – 7:00 PM
-
+```
+```
 Saturday, April 4 11:00 AM – 7:00 PM
-
+```
+```
 Sunday, April 5 10:00 AM – 4:00 PM
+```
+###### Info Booth – Summit
 
-##### Photo Booth Room
+```
+Summit – Level 1 Lobby
+```
+```
+Friday, April 3 6:00 AM – 11:00 PM
+```
+```
+Saturday, April 4 6:00 AM – 11:00 PM
+```
+```
+Sunday, April 5 8:00 AM – 6:00 PM
+```
+###### Info Booth – Arch
+
+```
+Arch – Room 454
+```
+```
+Friday, April 3 6:00 AM – 12:00 AM
+```
+```
+Saturday, April 4 6:00 AM – 12:00 AM
+```
+```
+Sunday, April 5 8:00 AM – 6:00 PM
+```
+###### Photo Booth Room
 
 ```
 Summit – 335-
 ```
+```
 Friday, April 3 10:00 AM – 6:00 PM
-
+```
+```
 Saturday, April 4 10:00 AM – 6:00 PM
-
+```
+```
 Sunday, April 5 10:00 AM – 3:00 PM
-
+```
 
 Fri — Arch p. 4
 
 ## Friday, April 3
 
 ```
-328 scheduled events
+342 scheduled events
 ```
 #### Arch — Friday, April 3
 
@@ -435,6 +476,11 @@ Arch Prog Panels - 3AB [18+]
 From the makers of “Ranking Anime’s Ultimate FBoys: Who's the King of the Island?” “Brace yourselves for
 the ultimate “Name That Daddy” quiz show. Contestants must identify mystery dads using cursed screenshots,
 clues, and hints like “gives off...
+Fri 5:15 PM – 6:15 PM Yabai!! (やばい) Takes
+Arch Prog Panels - 309 [13+]
+Do you have burning opinions on a top-rated anime? Is there an anime that you believe is undeniably slept
+on... or one that's absolute trash? We want to hear all about it! This is your opportunity to take the stage and let
+the world* know your yabai...
 Fri 5:30 PM – 6:30 PM Top 20 Comedy AMVs Countdown
 AMV Theater - 6C [13+]
 As if just showing comedy AMVs was not enough! No, we had to go and turn it into a countdown of some of
@@ -443,11 +489,6 @@ Fri 5:30 PM – 6:30 PM Women in Video Games
 Guest/Industry Panels/Premiers - Ballroom 3 • Guest of Honor [All Ages]
 Come see some of your favorite voice actors discuss the ins-and-outs of voice acting for some of your favorite
 video games!
-Fri 5:30 PM – 6:30 PM Yabai!! (やばい) Takes
-Arch Prog Panels - 309 [13+]
-Do you have burning opinions on a top-rated anime? Is there an anime that you believe is undeniably slept
-on... or one that's absolute trash? We want to hear all about it! This is your opportunity to take the stage and let
-the world* know your yabai...
 Fri 5:45 PM – 7:15 PM Level Up with AMV Editors
 AMV Workshop - 611-612 [13+]
 Presented by Winterblade AMVs, ResyAMV, and TheDestineeAMV This is a live AMV editing boot camp like
@@ -602,7 +643,7 @@ Fri 10:00 PM – Sat 4:
 AM
 ```
 ```
-Magical Henshin Matsuri
+Magical Henshin Matsuri - The Friday Sakura-Con Dance
 Mainstage - 4AB [All Ages]
 Get ready to reveal your final form and flex your power levels on the dancefloor at this year's official dances -
 Magical Henshin Matsuri! , With special DJ guests: , Ian K, JimniCricket, KandiCore, Remnant, R O C K Y, and
@@ -692,6 +733,21 @@ Fri — Arch Tower p. 14
 #### Arch Tower — Friday, April 3
 
 ```
+Fri 9:00 AM – 11:59 PM DRAW PHASE Presents TCGs @ Sakura-Con - Friday
+TCG Gaming - Tahoma 5 [All Ages]
+Welcome to the Sakura-Con x DRAW PHASE 2026 Trading Card Games room! We'll be running totally FREE
+events wall to wall all weekend long, from Learn to Play events, to Drafts, Sealed, Constructed, and more for
+some of your favorite games! Any event...
+Fri 9:00 AM – 11:00 PM Flesh and Blood – Learn to Play
+TCG Gaming - Tahoma 5 [All Ages]
+Dear Con-goer, do you desire Flesh? Do you desire Blood? Perhaps even both at the same time? In that case,
+we at the TCG Room have you covered. Come see us and one of our Flesh Experts (Blood Experts available
+upon request) will teach you all the...
+Fri 9:00 AM – 11:00 PM Magic: the Gathering – Casual Commander w/ Loaner Library
+TCG Gaming - Tahoma 5 [All Ages]
+Come play a casual Commander game with friends, strangers, or even DRAW PHASE Staff! Pods of 4 will be
+seated on-demand. No deck? No problem! We've got a library of pre-constructed decks you can borrow for the
+duration of your game. All...
 Fri 9:00 AM – 11:30 AM Rhythm Gaming Freeplay
 Retro and Console Gaming - Tahoma 1-2 [10+]
 Get your groove in with up to three other players in Just Dance, mimic silhouettes to iconic pop hits! Featuring
@@ -701,16 +757,50 @@ TCG Gaming - Tahoma 5 [All Ages]
 Welcome to the Archive, Champion – do you have what it takes to forestall an apocalypse? Come find out and
 learn Grand Archive, a growing new TCG fusing anime aesthetics with the best of western game design! Along
 with your demo kit, all...
+Fri 10:00 AM – 2:30 PM Alexandria RPG Library Presents: Classic, Modern & Indie RPGs
+Board and RPG Gaming - Tahoma 4 [All Ages]
+Visit the Alexandria RPG Library and explore over a thousand RPG rulebooks, modules, and player aids from
+countless game systems. From classic D&D to indie darlings, from cyberpunk noir to magical pirates. We bring
+all the dice, maps, books, and...
+Fri 10:00 AM – Sun 4:
+PM
+```
+```
+Arcade Open Play
+Arcade - 6AB
+Fri 10:00 AM – 2:30 PM Board Game Library - Presented by Dragonflight Game Con
+Board and RPG Gaming - Tahoma 4 [All Ages]
+Since 1980, Dragonflight Game Con has been introducing board game enthusiasts to a wide variety of games
+through their convention's extensive lending library of games. Now, you can experience that library here at
+Sakura-Con! Visit the Dragonflight...
 Fri 10:00 AM – 1:00 PM Digimon Card Game – Learn to Play
 TCG Gaming - Tahoma 5 [All Ages]
 Di-Di-Digimon! Digital Monsters, The Card Game! Come help to save the digital world and learn to play this
 rich card game that has captivated audiences since 2020! Change yourself into a digital champion and save
 the digital world. And after you're...
+Fri 10:00 AM – 10:00 PM Go lessons/Free play
+Go and Shogi - Chelan 2 [All Ages]
+Come learn/play the ancient game of Go! Beginners very welcome
+Fri 10:00 AM – 10:00 PM Learn to play mahjong
+Mahjong - Skagit 4-
+Learn to play Japanese riichi mahjong with one of our teachers!
 Fri 10:00 AM – 2:00 PM Magic: the Gathering – Free Curated Chaos Draft
 TCG Gaming - Tahoma 5 [All Ages]
 Presented by MTGPlatinum.com! Come and enjoy a completely free, curated draft experience reaching
 through MTG history to provide you with an unpredictable experience you won’t find anywhere else All Curated
 Chaos drafts are three rounds of...
+```
+
+Fri — Arch Tower p. 15
+
+```
+Fri 10:00 AM – Sat 3:
+AM
+```
+```
+Mahjong freeplay
+Mahjong - Skagit 4-
+Play mahjong with other attendees at one of our many tables. An annual classic.
 Fri 10:00 AM – 2:00 PM Netrunner -- Learn to Play
 TCG Gaming - Tahoma 5 [All Ages]
 Come learn the Netrunner TCG directly from the team developing it! Null Signal Games has sent us their very
@@ -730,6 +820,12 @@ Board and RPG Gaming - Tahoma 4 [All Ages]
 Learn to build an RPG character, or play one of the Alexandria RPG Library's collection of solo RPGs!
 Alexandria's crew of Librarians and GMs will be on hand to help you flesh out your character concept, or
 demonstrate RPG games that can be played...
+Fri 10:00 AM – 10:00 PM Retro/Console Freeplay
+Retro and Console Gaming - Tahoma 1-2 [All Ages]
+Check in at Console Gaming for live content and more all weekend!
+Fri 10:00 AM – 10:00 PM Shogi lessons/Free play
+Go and Shogi - Chelan 2 [All Ages]
+Come learn/play the ancient game of Shogi! Beginners very welcome
 Fri 10:00 AM – 1:00 PM Social Deception: Open-Play
 Social Deception Games 1 - Skagit 2 [10+]
 Social Deception invites you to come play games from our collection! Self-guided, or run w/ staff help!
@@ -745,11 +841,6 @@ Gaming Panels - Skagit 1 [13+]
 From the differences in gameplay to the OVA, Fire Emblem has had a weird history of localizations. Let's
 explore all of the wacky choices that Intelligent Systems has made and how it has affected localized
 audiences.
-```
-
-Fri — Arch Tower p. 15
-
-```
 Fri 10:30 AM – 2:30 PM Warrior Cats Adventure Game: A Quest for Herbs
 Board and RPG Gaming - Tahoma 4 [All Ages]
 Leaf-Bare is here, sooner than expected. There is not enough Cat Mint for all clans to use. Before fights break
@@ -760,6 +851,11 @@ Board and RPG Gaming - Tahoma 4 [13+]
 Desolate and abandoned, the evil alchemist's mansion stands alone on the cliff, looking out towards the sea.
 Mysterious lights and ghostly hauntings have kept away the people of Saltmarsh, despite rumors of a fabulous
 treasure. What is its sinister...
+```
+
+Fri — Arch Tower p. 16
+
+```
 Fri 11:00 AM – 3:00 PM Deadlands: Savage Worlds Adventure Edition: Last Coach to Hallowed Ground
 Board and RPG Gaming - Tahoma 4 [13+]
 The posse is staying in a frontier town when an empty, bullet-riddled stagecoach rolls in at dawn. By noon, the
@@ -806,11 +902,6 @@ Board and RPG Gaming - Tahoma 4 [18+]
 Total maidness awaits as you try to make your master's casino grand opening a winner, even as bizarre
 random events throw everything into chaos. It's grand opening night, the culmination of your master's fondest
 wish: a casino themed after, and...
-```
-
-Fri — Arch Tower p. 16
-
-```
 Fri 11:30 AM – 3:30 PM Shadow Scar: The Final Test
 Board and RPG Gaming - Tahoma 4 [18+]
 Come begin your journey into the multiverse as a ninja by...taking your graduation exam? You've trained long
@@ -821,6 +912,11 @@ TCG Gaming - Tahoma 5 [All Ages]
 Ever wanted to try out an Anime card game known for being easy to learn and incredibly fun to master?
 Cardfight Vanguard!! is right up your alley then! Come and play with one of our Starter Decks and be guided
 through a game by one of our...
+```
+
+Fri — Arch Tower p. 17
+
+```
 Fri 12:00 PM – 4:00 PM D&D 5e (2024): Uni and the Hunt for the Lost Horn
 Board and RPG Gaming - Tahoma 4 [13+]
 Uni the unicorn is in trouble. The evil spellcaster Kelek has stolen Uni’s horn to power a fell ritual. If the
@@ -868,11 +964,6 @@ Fri 1:00 PM – 5:00 PM Super Smash Bros. Ultimate Tournament 1
 Tournament Gaming - Tahoma 3 [10+]
 Everyone is here! Bring your main and prove they're top tier. First of four brackets, so there's plenty of chances
 to shine. Win prizes!
-```
-
-Fri — Arch Tower p. 17
-
-```
 Fri 1:00 PM – 3:00 PM Two Rooms and a Boom
 Social Deception Games 1 - Skagit 2 [10+]
 Social deception game of hidden roles and deduction, players are divided into 2 different rooms. Find your
@@ -881,6 +972,11 @@ Fri 1:00 PM – 3:00 PM Two Rooms and a Boom
 Social Deception Games 2 - Skagit 3 [10+]
 Social deception game of hidden roles and deduction, players are divided into 2 different rooms. Find your
 teammates, establish trust, and exchange hostages before time runs out and the bomb explodes!
+```
+
+Fri — Arch Tower p. 18
+
+```
 Fri 1:30 PM – 3:30 PM D&D 5e (2024): Eight Kolbolds and a Baby (dragon): An Intro adventure
 Board and RPG Gaming - Tahoma 4 [All Ages]
 You have been hired to find and return the egg of a friendly copper dragon. , A band of kobolds recently stole
@@ -909,6 +1005,16 @@ Fri 2:00 PM – 5:00 PM Vampire Savior Tournament
 Tournament Gaming - Tahoma 3 [10+]
 Darkstalkers 3, baby! Fast-paced vampire hunters vs. creatures of the night. Chain those combos and show
 everyone why this is the hypest Capcom fighter. Win prizes!
+Fri 2:30 PM – 7:30 PM Alexandria RPG Library Presents: Classic, Modern & Indie RPGs
+Board and RPG Gaming - Tahoma 4 [All Ages]
+Visit the Alexandria RPG Library and explore over a thousand RPG rulebooks, modules, and player aids from
+countless game systems. From classic D&D to indie darlings, from cyberpunk noir to magical pirates. We bring
+all the dice, maps, books, and...
+Fri 2:30 PM – 7:30 PM Board Game Library - Presented by Dragonflight Game Con
+Board and RPG Gaming - Tahoma 4 [All Ages]
+Since 1980, Dragonflight Game Con has been introducing board game enthusiasts to a wide variety of games
+through their convention's extensive lending library of games. Now, you can experience that library here at
+Sakura-Con! Visit the Dragonflight...
 Fri 2:30 PM – 6:30 PM Magic: the Gathering – Free Curated Chaos Draft
 TCG Gaming - Tahoma 5 [All Ages]
 Presented by MTGPlatinum.com! Come and enjoy a completely free, curated draft experience reaching
@@ -928,13 +1034,13 @@ TCG Gaming - Tahoma 5 [All Ages]
 Riftbound! A TCG based off of the world of League of Legends, but this time in physical card form! A brand
 new game from UVS Games & Riot Games, Riftbound provides League of Legends gameplay without the
 searing rage of going 0/8/3 on Summoner's...
+```
+
+Fri — Arch Tower p. 19
+
+```
 Fri 3:00 PM – 5:00 PM Score Attack! - Sonic Blast Heroes, Strongest Punch
 Arcade - 6AB
-```
-
-Fri — Arch Tower p. 18
-
-```
 Fri 3:00 PM – 6:00 PM Social Deception: Tasters
 Social Deception Games 1 - Skagit 2 [10+]
 Social Deception variety hours! Quick fast-paced games! A variety of choice! Experience a broad swath of
@@ -991,7 +1097,7 @@ videogames such as the legendary Final Fantasy series. In this BEGINNER FRIENDLY
 adventure, set out on an airship to investigate...
 ```
 
-Fri — Arch Tower p. 19
+Fri — Arch Tower p. 20
 
 ```
 Fri 5:00 PM – 9:00 PM Cairn 2E: The Sinister Secret of Saltmarsh Part 2
@@ -1051,7 +1157,7 @@ Blood on the Clocktower: A social deduction game for 5-15 players! As many games
 timeblock! Sign up for the next game, or join in midway as a traveler!
 ```
 
-Fri — Arch Tower p. 20
+Fri — Arch Tower p. 21
 
 ```
 Fri 6:00 PM – 9:00 PM Cardfight Vanguard!! - Free Starter Deck Showdown!
@@ -1111,7 +1217,7 @@ together at last and you, yes YOU can come and learn to play this brand new TCG 
 HoloLive personalities. Just come over to the...
 ```
 
-Fri — Arch Tower p. 21
+Fri — Arch Tower p. 22
 
 ```
 Fri 7:00 PM – 8:00 PM Just dance off!
@@ -1133,6 +1239,16 @@ Fri 7:00 PM – 8:00 PM Uma Musume: Pretty Derby Tournament 1
 Tournament Gaming - Tahoma 3 [10+]
 Horse girls race for glory! Place your bets with play money and win prize tickets based on the race results. Will
 your uma musume come in first? Win prizes!
+Fri 7:30 PM – 11:59 PM Alexandria RPG Library Presents: Classic, Modern & Indie RPGs
+Board and RPG Gaming - Tahoma 4 [All Ages]
+Visit the Alexandria RPG Library and explore over a thousand RPG rulebooks, modules, and player aids from
+countless game systems. From classic D&D to indie darlings, from cyberpunk noir to magical pirates. We bring
+all the dice, maps, books, and...
+Fri 7:30 PM – 11:59 PM Board Game Library - Presented by Dragonflight Game Con
+Board and RPG Gaming - Tahoma 4 [All Ages]
+Since 1980, Dragonflight Game Con has been introducing board game enthusiasts to a wide variety of games
+through their convention's extensive lending library of games. Now, you can experience that library here at
+Sakura-Con! Visit the Dragonflight...
 Fri 7:30 PM – 11:30 PM D&D 5e: Roll For Sandwich!
 Board and RPG Gaming - Tahoma 4 [All Ages]
 Your party of 6th level adventurers competes as a team in a grand competition to make the ultimate magical
@@ -1158,6 +1274,11 @@ Board and RPG Gaming - Tahoma 4 [18+]
 Love dark modern fantasy? Love wacky punk antics? Then you'll love Monster of the Week! Each party
 memeber picks one role to form their team of radical monster hunters! ""The small town of Whispering Pines,
 WV was once a picturesque site along...
+```
+
+Fri — Arch Tower p. 23
+
+```
 Fri 7:30 PM – 11:30 PM Ryuutama: Let’s Get Cooking – A Delicious In Dungeon Inspired Adventure
 Board and RPG Gaming - Tahoma 4 [All Ages]
 Calling all dungeon delvers with an appetite for adventure! You and your party are tasked with eating your way
@@ -1172,11 +1293,6 @@ Fri 8:00 PM – 11:00 PM Gundam Wing: Endless Duel Tournament
 Tournament Gaming - Tahoma 3 [10+]
 Round 2 of Gundam Animayhem! The SNES Gundam fighter that goes incredibly hard. Deathscythe, Wing
 Zero, and more in fast-paced mecha combat. Win prizes!
-```
-
-Fri — Arch Tower p. 22
-
-```
 Fri 8:00 PM – 9:30 PM Most Loved in Deepspace — A Love and Deepspace Game Show (18+)
 Gaming Panels - Skagit 1 [18+]
 Calling all Deepspace Hunters! Come and join a fun and interactive fan panel that will feature quiz and
@@ -1217,6 +1333,11 @@ Fri 9:00 PM – 10:00 PM Two Rooms and a Boom
 Social Deception Games 2 - Skagit 3 [10+]
 Social deception game of hidden roles and deduction, players are divided into 2 different rooms. Find your
 teammates, establish trust, and exchange hostages before time runs out and the bomb explodes!
+```
+
+Fri — Arch Tower p. 24
+
+```
 Fri 9:30 PM – 11:30 PM D&D 5e: To Be The Very Best
 Board and RPG Gaming - Tahoma 4 [All Ages]
 Festival bells cut loud through the air! Adventurers are gathering to celebrate the Wild Monster Capture
@@ -1233,11 +1354,6 @@ Play different variants of the game of Shogi
 Fri 10:00 PM – 11:59 PM Late Night Shogi Variants
 Go and Shogi - Chelan 2 [All Ages]
 Play different variants of the game of Go
-```
-
-Fri — Arch Tower p. 23
-
-```
 Fri 10:00 PM – 11:59 PM One Piece TCG - Free Starter Deck Tournament
 TCG Gaming - Tahoma 5 [All Ages]
 Reservation tickets will be available at the TCG Infodesk on the day of the event. Unclaimed spots will be filled
@@ -1296,7 +1412,7 @@ We asked, you answered. Over 200 responses from our survey. And tonight, we will
 are the Top 10 sexiest FFXIV characters! Back for our second year!
 ```
 
-Fri — Summit p. 24
+Fri — Summit p. 25
 
 #### Summit — Friday, April 3
 
@@ -1358,7 +1474,7 @@ Hayao Miyazaki did a lot of work to make anime acceptable to mainstream audience
 quality art, but by making something so bad that everything else looked quality in comparison.
 ```
 
-Fri — Summit p. 25
+Fri — Summit p. 26
 
 ```
 Fri 11:30 AM – 1:00 PM Cosplay Wrestling Federation: Sakurumble VI! - Day 1
@@ -1416,7 +1532,7 @@ Ever wonder how to get started in vtubing or who are those anime people performi
 talking to people at the con through the tv and ipad? Come swing by to learn about vtubers and vtuber culture!
 ```
 
-Fri — Summit p. 26
+Fri — Summit p. 27
 
 ```
 Fri 1:00 PM – 2:00 PM JoJo Pose off! With Bill Butts
@@ -1476,7 +1592,7 @@ your best comedy skills with a series of sketches. A small lecture throughout as
 fun and hilarity.
 ```
 
-Fri — Summit p. 27
+Fri — Summit p. 28
 
 ```
 Fri 2:15 PM – 3:15 PM So, You think it's a Sports Anime...It's Actually a BL
@@ -1536,7 +1652,7 @@ Summit Prog Panels - 445-446 [13+]
 Required in-person meeting for all participants in the Cosplay Chess games.
 ```
 
-Fri — Summit p. 28
+Fri — Summit p. 29
 
 ```
 Fri 3:30 PM – 4:00 PM Your Digital Innie: Modern Security and Identity
@@ -1596,7 +1712,7 @@ See how the individual components of Japanese armor were worn and what types of 
 weapons a samurai may have carried into...
 ```
 
-Fri — Summit p. 29
+Fri — Summit p. 30
 
 ```
 Fri 5:00 PM – 6:30 PM A Practical Guide to Panel Profanity
@@ -1655,7 +1771,7 @@ Hikaru’s body got taken over by a super dangerous spirit). Join two boys learn
 ridiculous improv games and...
 ```
 
-Fri — Summit p. 30
+Fri — Summit p. 31
 
 ```
 Fri 6:30 PM – 8:00 PM Whose Line is it Anyway?
@@ -1699,11 +1815,6 @@ Mecha Modeling Workshop - 327
 There will be a limited number of FREE kits available at each Free Build Session. These kits are first come,
 first serve. We highly recommend queuing in advance of each session. Registration will be required at the door
 for you to enter and work on...
-Fri 8:00 PM – 10:00 PM Into the Nether
-Dance Lessons - 420-422 [18+]
-Join your favorite Nether Waifus in THE NETHER. This hype dance party blends rhythm and fandom with
-anime hits, 2000s throwbacks, EDM, techno, bass, and kpop to keep you moving all night. Into the NETHER is
-your chance to escape the overworld and...
 Fri 8:00 PM – 10:00 PM Let's make a Vocaloid song together!
 Summit Prog Panels - 343-344 [13+]
 Do you like vocaloid/vocalsynths music and want to learn how to make them? We will go through some basic
@@ -1714,16 +1825,16 @@ Summit Prog Panels - 347-348 [13+]
 The Persona series started 30 years ago with Revelations: Persona back on the original PlayStation and now
 has become one of the biggest series coming out of Japan. This panel will be a fun look back over the past
 three decades with a room full of...
-```
-
-Fri — Summit p. 31
-
-```
 Fri 8:15 PM – 9:15 PM Umamusume Horse-Story - Legends on the Track
 Summit Prog Panels - 443-444 [All Ages]
 Whether you're just making your debut in the Uma world or if you're already a top trainer, saddle up for a trip
 through Umamusume history! In this panel, you'll learn the real life stories of Japan's most iconic racehorses.
 Behind every Umamusume is...
+```
+
+Fri — Summit p. 32
+
+```
 Fri 8:30 PM – 10:00 PM Character Court!
 Summit Prog Panels - 345-346 [18+]
 Do you love courtoom dramas? Do you have a favorite character that you have always wanted to defend in
@@ -1760,12 +1871,12 @@ South Park had a full episode about Pokemon? Or when FLCL had a few seconds done
 That's what this panel is all about....
 ```
 
-Sat — Arch p. 32
+Sat — Arch p. 33
 
 ## Saturday, April 4
 
 ```
-351 scheduled events
+364 scheduled events
 ```
 #### Arch — Saturday, April 4
 
@@ -1812,30 +1923,26 @@ Sat 10:00 AM – 11:00 AM Intro to Jirai and Ryousangata Fashion
 Arch Prog Panels - 303 [13+]
 Have you seen a cute fashion style that looks like gothic lolita, but a little more casual? What about girly,
 princess-style outfits? Join us to learn more about the origins of jiraikei and how to put an outfit together!
-Sat 10:00 AM – 11:00 AM Let's Talk About The State of Love Live!
-Arch Prog Panels - 3AB [13+]
-The multimedia idol franchise known as Love Live has been around for over a decade. Spanning multiple
-groups and games, this franchise served as many people's first introduction to the idol scene in the 2010s.
-However, we're in 2025 now, and many...
-```
-
-Sat — Arch p. 33
-
-```
 Sat 10:00 AM – 11:00 AM Stations of the Cross...Over: Salvation and Sin in Modern Anime
 Arch Prog Panels - 310 [13+]
 Ever start watching an anime and suddenly a character is being crucified? Have you thought to yourself "wait
 what? why..." In this panel we'll explore the history of Christian imagery, theology, and religious syncretism in
 anime.
+```
+
+Sat — Arch p. 34
+
+```
 Sat 10:30 AM – 11:30 AM An Intro to Traditional Japanese Instruments with Dekoboko Taiko
 SakuraDome - 6E • Cultural Panel [All Ages]
 Dekoboko Taiko invites you to learn about the rich history of traditional Japanese instruments, particularly
 percussion and winds, and their cultural influence in Japan and the world. This fun and interactive panel will
 include a performance and...
-Sat 10:30 AM – 11:30 AM Crunchyroll Premieres Round 1
+Sat 10:30 AM – 11:30 AM Crunchyroll Presents: Witch Hat Atelier Premiere Screening
 Guest/Industry Panels/Premiers - Ballroom 2 • Industry Panel [13+]
-Catch a sneak peek at some of the upcoming anime that's coming to Crunchyroll's simulcasts! Don't miss your
-chance to be among the first to see the latest anime from Japan!
+Everyone knows that magic-users are born, not made. This being a hard truth to swallow, Coco is about to
+give up her lifelong dream to be a witch ... until she meets the mysterious magician, Qifrey. By secretly
+watching Qifrey perform magic, Coco...
 Sat 10:30 AM – 11:30 AM Evangelion AMVs
 AMV Theater - 6C [13+]
 Evangelion continues to delight and perplex audiences with it's apocalyptic stakes and teen angst. Come
@@ -1877,14 +1984,14 @@ Arch Prog Panels - 3AB [All Ages]
 All the way from Utah, join Sky of Pastel Roulette in a high-energy performance that will be sure to get you
 hoppin~! This internet bunny will be performing their original music as well as high tempo covers of idol music.
 Turn your penlights to pink...
-```
-
-Sat — Arch p. 34
-
-```
 Sat 11:30 AM – 12:00 PM AMV Contest Seating
 Mainstage - 4AB [13+]
 Seating for the AMV Contest
+```
+
+Sat — Arch p. 35
+
+```
 Sat 11:45 AM – 1:00 PM Star Ocean Ex Episodes 1-3
 AMV Workshop - 611-612 [10+]
 ANIME SHOWING (Subtitled) Based on the video game series, the story follows Claude C. Kenni, a young
@@ -1937,16 +2044,16 @@ New to cosplay or even a seasoned professional? Come join three competitive cosp
 upon their mistakes and regrets so you can avoid them in your own cosplays and projects
 Sat 12:30 PM – 1:30 PM Emi Nitta Autograph
 Autographs - Flex A and B • Autographs
-```
-
-Sat — Arch p. 35
-
-```
 Sat 12:30 PM – 1:00 PM The Importance of Diversity in Youth Literature
 Arch Prog Panels - 305 [All Ages]
 Books have long been a way for us to see ourselves in adventures. Nowadays, diversity has grown so much in
 books geared towards youth. Come celebrate why that's so important and get some new recommendations for
 your to be read list!
+```
+
+Sat — Arch p. 36
+
+```
 Sat 12:45 PM – 2:15 PM PRISM's Idol Kahoot!
 Arch Prog Panels - 304 [All Ages]
 Think you're an idol pro? Join PRISM*Rush! for a fun, 100-Question Idol Kahoot! Test your knowledge on idol
@@ -1999,13 +2106,13 @@ Arch Prog Panels - 2AB [13+]
 There are over 20 animated Pokemon films. Are any of them good? Do we only remember them because of
 nostalgia? Do any of them even pass the Bechdel test? We decided to watch and review them so you don’t
 have to.
-```
-
-Sat — Arch p. 36
-
-```
 Sat 2:30 PM – 4:00 PM Hiroshi Nagahama Autograph
 Autographs - Flex A and B • Autographs
+```
+
+Sat — Arch p. 37
+
+```
 Sat 2:30 PM – 3:30 PM Level 1 Drama/Trauma Center: Medicine in Anime
 Arch Prog Panels - 305 [10+]
 Come learn from an anesthetist how medical practice in anime intersects and compares with real life. There
@@ -2060,7 +2167,7 @@ beginning of what made this war story mecha franchise so great: its extremely de
 This panel will examine the...
 ```
 
-Sat — Arch p. 37
+Sat — Arch p. 38
 
 ```
 Sat 4:00 PM – 5:00 PM AMQ Anime Music Quiz
@@ -2073,10 +2180,11 @@ SakuraDome - 6E [13+]
 The CWF, THE MOST ELECTRIFYING show in Anime Sports Entertainment, returns to the Pacific Northwest
 at Sakura-Con to proudly present to you SAKURUMBLE as a two-day event! This show will feature wrestlers
 of the CWF from franchises big and small,...
-Sat 4:00 PM – 5:00 PM Crunchyroll Premieres Round 2
+Sat 4:00 PM – 5:00 PM Crunchyroll Presents: Classroom of the Elite Season 4 Premiere Screening
 Guest/Industry Panels/Premiers - Ballroom 2 • Industry Panel [13+]
-Catch a sneak peek at some of the upcoming anime that's coming to Crunchyroll's simulcasts! Don't miss your
-chance to be among the first to see the latest anime from Japan!
+It’s their second year at the Advanced Nurturing High School and Ayanokouji’s class is already greeted with a
+new batch of exams and interesting first-year students to pair up with. They’ll need to get it together quickly
+because if they don’t, the...
 Sat 4:00 PM – 5:00 PM Danganronpa 2 - Comic Con School Trip!
 Arch Prog Panels - 304 [13+]
 Join the cast of Danganronpa 2 as they take a school trip to SakuraCon. After meeting the cast of characters,
@@ -2115,16 +2223,16 @@ Arch Prog Panels - 307-308 [18+]
 Calling all Phantom Thieves! There will be a panel about the heartstealing JRPG known as Persona 5. A few
 Phantom Thieves will conduct the panel and we will be discussing about treasures, corrupt hearts, and maybe
 calling cards to bring forth a...
+```
+
+Sat — Arch p. 39
+
+```
 Sat 5:00 PM – 6:00 PM A Decade of Osomatsu-san: A Fan Retrospective
 Arch Prog Panels - 303 [13+]
 Ten years ago, Osomatsu-san brought gag manga characters from the 1960s into the modern age with a
 bombastic reboot. Since then we’ve had four anime seasons, movies, games, and oh so much merchandise
 featuring the iconic identical sextuplets. How...
-```
-
-Sat — Arch p. 38
-
-```
 Sat 5:00 PM – 6:30 PM Doomed Yaoi Tournament: How doomed are they?
 Arch Prog Panels - 2AB [18+]
 Doomed yaoi? We hardly know her! Or do we? With BL on the rise, we bring you a bracket-style tournament
@@ -2173,6 +2281,11 @@ Arch Prog Panels - 303 [13+]
 For the second year in a row, come learn about the principles of trauma informed care through the lens of one
 of your favorite characters, Inuyasha! We'll discuss how Inuyasha's trauma has informed his behavior and
 connect trauma informed care to...
+```
+
+Sat — Arch p. 40
+
+```
 Sat 6:15 PM – 7:15 PM Seattle Cosplay Resources (On a Budget!)
 Arch Prog Panels - 310 [13+]
 This panel is designed to help cosplayers on a budget achieve their prop and costume dreams. As someone
@@ -2182,11 +2295,6 @@ Sat 6:30 PM – 7:30 PM Asobi*Pawtime: Pawsitively Kaigai Idols!
 Arch Prog Panels - 3AB [10+]
 Join Asobi*Pawtime and friends for a setlist of fun and interactive kaigai idol performances! Bring your
 penlights and learn some wota, let's hear your loudest cheers!!!
-```
-
-Sat — Arch p. 39
-
-```
 Sat 6:30 PM – 8:15 PM Monthly Girls’ Nozaki-kun Episodes 1-4
 AMV Workshop - 611-612 [10+]
 ANIME SHOWING (Dubbed) High schooler Chiyo Sakura finally works up the courage to confess her feelings
@@ -2209,11 +2317,6 @@ Japan’s premier arena rock band. We’ll talk about their contributions to ani
 their killer vocal harmonies,...
 Sat 7:00 PM – 8:00 PM Blue Encount Concert
 Mainstage - 4AB • Guest of Honor [13+]
-Sat 7:00 PM – 8:00 PM Twisted Wonderland: Once Upon a Slumber Party
-Arch Prog Panels - 307-308 [18+]
-Diasomnia has decided to throw their first ever slumber party! Under Lilia’s guidance, Sebek and Silver have
-been tasked to organize it. It absolutely HAS to go perfectly for Lord Malleus, so they have asked a few other
-students to assist in this...
 Sat 7:30 PM – 8:30 PM Asexuality in Manga and More
 Arch Prog Panels - 310 [13+]
 Looking for asexual and/or aromantic characters in manga? There’s more than you may think! Come and learn
@@ -2239,15 +2342,15 @@ Arch Prog Panels - 2AB [18+]
 This panel takes audiences on a guided descent through the horror anime and manga iceberg, beginning with
 familiar titles and plunging into the genre’s most obscure and unsettling depths. Hosted by the Seattle Scare
 Society, the discussion explores...
+```
+
+Sat — Arch p. 41
+
+```
 Sat 8:30 PM – 9:30 PM Eco Friendly Cosplay
 Arch Prog Panels - 305 [All Ages]
 Are you a cosplayer concerned about the environment? Join a veteran cosplayer to learn about ways you can
 cosplay while reducing your environmental impact, from material choices to techniques.
-```
-
-Sat — Arch p. 40
-
-```
 Sat 8:30 PM – 9:30 PM Oh, You Call Yourself a Fujoshi!?: Guess That BL Manhwa Quiz
 Arch Prog Panels - 307-308 [13+]
 A presentation and quiz for those obsessed with Boys Love and think they know every Boys Love media
@@ -2300,25 +2403,25 @@ Arch Prog Panels - 2AB [18+]
 Feeling like a Loser, Baby? Well, I bet You Didn't Know that today is gonna be a Happy Day in Hell with our
 jam packed sing-along! Not even Gravity can bring us down, because When We Get Up There, we're gonna
 Poison your mind with Hazbin Hotel...
+```
+
+Sat — Arch p. 42
+
+```
 Sat 10:00 PM – Sun 4:00
 AM
 ```
 ```
-Magical Henshin Matsuri
+Magical Henshin Matsuri - The Saturday Sakura-Con Dance
 Mainstage - 4AB [All Ages]
 Get ready to reveal your final form and flex your power levels on the dancefloor at this year's official dances -
 Magical Henshin Matsuri! , With special DJ guests: , Quackson, Assertive, DJ MADAM FILTH, Kingly, Zoe
 VanWest & E*Tank, SakeBomb,...
-```
-
-Sat — Arch p. 41
-
-```
-Sat 10:00 PM – 11:00 PM Yaoi Story: Fire, Fun, and Friends ;3
+Sat 10:00 PM – 11:00 PM Twisted Wonderland: Once Upon a Slumber Party
 Arch Prog Panels - 307-308 [18+]
-Come and write a story about two men who have ties to fire fighters, whether they are firefighters or being
-saved by one! Bring your ideas and get ready to let your creative juices flow as the panelists guide you through
-this creative process. Why...
+Diasomnia has decided to throw their first ever slumber party! Under Lilia’s guidance, Sebek and Silver have
+been tasked to organize it. It absolutely HAS to go perfectly for Lord Malleus, so they have asked a few other
+students to assist in this...
 Sat 10:15 PM – 10:45 PM Coordinator's Top Picks
 AMV Workshop - 611-612 [13+]
 With so many fantastic entries it really is difficult for the Coordinator to choose just one as her favorite. Come
@@ -2391,18 +2494,9 @@ Arch Prog Panels - 307-308 [18+]
 Are you a yearner? Have you been saved by fanfiction before? It's time to be that hero to someone else. We
 need YOU to help create the next hot fanfiction. From the pairing to the plot, it's all up to the audience in this
 game of Fanfiction Ad-libs....
-Sat 11:30 PM – Sun 1:30
-AM
-```
-```
-Cosplayers Know It All!
-Arch Prog Panels - 310 [18+]
-We are the Cosplayers Who Know It All! A group of anime and video game loving fans who have come
-together to discuss topics they feel are important! Come join the first meeting of the CKIA as they run you
-through various subjects and have a lively...
 ```
 
-Sat — Arch p. 42
+Sat — Arch p. 43
 
 ```
 Sat 11:30 PM – Sun 1:15
@@ -2429,7 +2523,7 @@ Ride aboard the Absolution Mk. XIV as TOM and SARA host a late night AMV tribute
 shows, both old and new. Stay gold!
 ```
 
-Sat — Arch Tower p. 43
+Sat — Arch Tower p. 44
 
 #### Arch Tower — Saturday, April 4
 
@@ -2441,10 +2535,38 @@ Sat 8:00 AM – 10:00 AM Social Deception: Tasters
 Social Deception Games 2 - Skagit 3 [10+]
 Social Deception variety hours! Quick fast-paced games! A variety of choice! Experience a broad swath of
 Deception games you could play at home!
+Sat 9:00 AM – 11:59 PM DRAW PHASE Presents TCGs @ Sakura-Con - Saturday
+TCG Gaming - Tahoma 5 [All Ages]
+Welcome to the Sakura-Con x DRAW PHASE 2026 Trading Card Games room! We'll be running totally FREE
+events wall to wall all weekend long, from Learn to Play events, to Drafts, Sealed, Constructed, and more for
+some of your favorite games! Any event...
 Sat 9:00 AM – 10:00 AM Final Boss Faceoff
 Tournament Gaming - Tahoma 3 [10+]
 Watch top players take on the hardest boss challenges from fighting games. Can they defeat SNK bosses
 without cheese? Find out! Win prizes!
+Sat 9:00 AM – 11:00 PM Flesh and Blood – Learn to Play
+TCG Gaming - Tahoma 5 [All Ages]
+Dear Con-goer, do you desire Flesh? Do you desire Blood? Perhaps even both at the same time? In that case,
+we at the TCG Room have you covered. Come see us and one of our Flesh Experts (Blood Experts available
+upon request) will teach you all the...
+Sat 9:00 AM – 1:00 PM Learn to play mahjong
+Mahjong - Skagit 4-5
+Learn to play Japanese riichi mahjong with one of our teachers!
+Sat 9:00 AM – 11:00 PM Magic: the Gathering – Casual Commander w/ Loaner Library
+TCG Gaming - Tahoma 5 [All Ages]
+Come play a casual Commander game with friends, strangers, or even DRAW PHASE Staff! Pods of 4 will be
+seated on-demand. No deck? No problem! We've got a library of pre-constructed decks you can borrow for the
+duration of your game. All...
+Sat 9:00 AM – Sun 3:00
+AM
+```
+```
+Mahjong freeplay
+Mahjong - Skagit 4-5
+Play mahjong with other attendees at one of our many tables. An annual classic.
+Sat 9:00 AM – 10:00 PM Retro/Console Freeplay
+Retro and Console Gaming - Tahoma 1-2 [All Ages]
+Check in at Console Gaming for live content and more all weekend!
 Sat 9:00 AM – 1:00 PM Rhythm Gaming Freeplay
 Retro and Console Gaming - Tahoma 1-2 [10+]
 Get your groove in with up to three other players in Just Dance, mimic silhouettes to iconic pop hits! Featuring
@@ -2454,14 +2576,32 @@ TCG Gaming - Tahoma 5 [All Ages]
 Welcome to the Archive, Champion – do you have what it takes to forestall an apocalypse? Come find out and
 learn Grand Archive, a growing new TCG fusing anime aesthetics with the best of western game design! Along
 with your demo kit, all...
+Sat 10:00 AM – 2:30 PM Alexandria RPG Library Presents: Classic, Modern & Indie RPGs
+Board and RPG Gaming - Tahoma 4 [All Ages]
+Visit the Alexandria RPG Library and explore over a thousand RPG rulebooks, modules, and player aids from
+countless game systems. From classic D&D to indie darlings, from cyberpunk noir to magical pirates. We bring
+all the dice, maps, books, and...
 Sat 10:00 AM – 12:00 PM BOTC: Advanced Games
 Social Deception Games 2 - Skagit 3 [10+]
 Blood on the Clocktower: Lorics, Carosel, Funky Travelers, advanced scripts!
+```
+
+Sat — Arch Tower p. 45
+
+```
+Sat 10:00 AM – 2:30 PM Board Game Library - Presented by Dragonflight Game Con
+Board and RPG Gaming - Tahoma 4 [All Ages]
+Since 1980, Dragonflight Game Con has been introducing board game enthusiasts to a wide variety of games
+through their convention's extensive lending library of games. Now, you can experience that library here at
+Sakura-Con! Visit the Dragonflight...
 Sat 10:00 AM – 1:00 PM Digimon Card Game – Learn to Play
 TCG Gaming - Tahoma 5 [All Ages]
 Di-Di-Digimon! Digital Monsters, The Card Game! Come help to save the digital world and learn to play this
 rich card game that has captivated audiences since 2020! Change yourself into a digital champion and save
 the digital world. And after you're...
+Sat 10:00 AM – 10:00 PM Go lessons/Free play
+Go and Shogi - Chelan 2 [All Ages]
+Come learn/play the ancient game of Go! Beginners very welcome
 Sat 10:00 AM – 2:00 PM Magic: the Gathering – Free Curated Chaos Draft
 TCG Gaming - Tahoma 5 [All Ages]
 Presented by MTGPlatinum.com! Come and enjoy a completely free, curated draft experience reaching
@@ -2482,15 +2622,13 @@ Board and RPG Gaming - Tahoma 4 [All Ages]
 Learn to build an RPG character, or play one of the Alexandria RPG Library's collection of solo RPGs!
 Alexandria's crew of Librarians and GMs will be on hand to help you flesh out your character concept, or
 demonstrate RPG games that can be played...
+Sat 10:00 AM – 10:00 PM Shogi lessons/Free play
+Go and Shogi - Chelan 2 [All Ages]
+Come learn/play the ancient game of Shogi! Beginners very welcome
 Sat 10:00 AM – 12:00 PM Tekken Bowl (Tekken Tag Tournament)
 Tournament Gaming - Tahoma 3 [10+]
 Why punch when you can bowl? The most ridiculous Tekken mode returns! Strike out your opponents in this
 bizarre but beloved minigame. Win prizes!
-```
-
-Sat — Arch Tower p. 44
-
-```
 Sat 10:00 AM – 11:00 AM Uma Musume: Pretty Derby Tournament 2
 Tournament Gaming - Tahoma 3 [10+]
 Morning races are here! Bet on your favorite horse girl and watch them dash to the finish line. Winning bettors
@@ -2505,6 +2643,11 @@ Board and RPG Gaming - Tahoma 4 [13+]
 There is a distraught parent in the tiny town of Meadowsbrook, asking for assistance to have their lost infant
 returned. With the challenge of political vying between the mayor Montgomery and the witch Agatha,
 duplicitous dealings from community...
+```
+
+Sat — Arch Tower p. 46
+
+```
 Sat 11:00 AM – 2:00 PM 2XKO Tournament and Meet the Devs!
 Tournament Gaming - Tahoma 3 [10+]
 Swag, Fight and meet the devs! Mixed format tournament. , Riot's 2v2 tag fighter brings League of Legends
@@ -2546,11 +2689,6 @@ Board and RPG Gaming - Tahoma 4 [All Ages]
 As students and staff of witchery and wizardry at the vibrant Brandysprite Castle, it isn't unusual for you, your
 classmates, and charges to be sent as envoys to friendly fairy communities. Whether it be to gather resources,
 catch up on the latest...
-```
-
-Sat — Arch Tower p. 45
-
-```
 Sat 11:30 AM – 3:30 PM Deadlands: Savage Worlds Adventure Edition: Last Coach to Hallowed Ground
 Board and RPG Gaming - Tahoma 4 [13+]
 The posse is staying in a frontier town when an empty, bullet-riddled stagecoach rolls in at dawn. By noon, the
@@ -2566,6 +2704,11 @@ Board and RPG Gaming - Tahoma 4 [13+]
 The award-winning Fabula Ultima is designed to recreate the wondrous worlds, characters and stories seen in
 videogames such as the legendary Final Fantasy series. In this BEGINNER FRIENDLY introductory
 adventure, set out on an airship to investigate...
+```
+
+Sat — Arch Tower p. 47
+
+```
 Sat 11:30 AM – 3:30 PM MAID RPG: This is What You Were Maid For....
 Board and RPG Gaming - Tahoma 4 [18+]
 MAID RPG is a slice of life TRPG from Japan where you play a Maid serving your Master (the GM) alongside a
@@ -2605,11 +2748,6 @@ Sat 12:00 PM – 2:00 PM Two Rooms and a Boom
 Social Deception Games 2 - Skagit 3 [10+]
 Social deception game of hidden roles and deduction, players are divided into 2 different rooms. Find your
 teammates, establish trust, and exchange hostages before time runs out and the bomb explodes!
-```
-
-Sat — Arch Tower p. 46
-
-```
 Sat 12:00 PM – 4:00 PM Yu-Gi-Oh! Free Genesys Tournament
 TCG Gaming - Tahoma 5 [All Ages]
 Oops, looks like I ran out of time writing a description for this event! It's a totally FREE Genesys tournament
@@ -2628,6 +2766,11 @@ TCG Gaming - Tahoma 5 [All Ages]
 This one's new! Echoes of Astra is a brand-new TCG from Parhelion Studios, an anime art themed game that
 mixes traditional TCG Gameplay with the tactical depth of war gaming! All wrapped in the package of some
 beautiful cardboard. If you want to...
+```
+
+Sat — Arch Tower p. 48
+
+```
 Sat 1:00 PM – 4:00 PM Pathfinder Society: The Chitterwood Walks, Part 2: The Battle of Logas [PFS2 7-12]
 Board and RPG Gaming - Tahoma 4 [13+]
 With the success of the Chitterwood Talks, the goblin tribes are ready to march on Logas and put a stop to the
@@ -2666,11 +2809,6 @@ TCG Gaming - Tahoma 5 [All Ages]
 Step into the arena with FREE ready-to-play Silver Age preconstructed decks, officially sponsored by LSS.
 Experience the thrill of strategic 1v1 combat while making new friends in a fun and welcoming tournament
 setting! This event is a great chance...
-```
-
-Sat — Arch Tower p. 47
-
-```
 Sat 2:00 PM – 6:00 PM Neon Lords of the Toxic Wasteland: Mallpocalypse: All Sales Final
 Board and RPG Gaming - Tahoma 4 [13+]
 Welcome to the edge of the Neon Wastes, Skumdogz. Your next paycheck squats on the rotting bones of an
@@ -2684,6 +2822,21 @@ Sat 2:00 PM – 6:00 PM Street Fighter 6 Tournament
 Tournament Gaming - Tahoma 3 [10+]
 From the streets to Sakura-Con! Whether you're a Modern control newcomer or a Classic execution god, SF6
 welcomes all challengers. Drive Impact your way into convention history. Top 3 win prizes!
+Sat 2:30 PM – 7:30 PM Alexandria RPG Library Presents: Classic, Modern & Indie RPGs
+Board and RPG Gaming - Tahoma 4 [All Ages]
+Visit the Alexandria RPG Library and explore over a thousand RPG rulebooks, modules, and player aids from
+countless game systems. From classic D&D to indie darlings, from cyberpunk noir to magical pirates. We bring
+all the dice, maps, books, and...
+```
+
+Sat — Arch Tower p. 49
+
+```
+Sat 2:30 PM – 7:30 PM Board Game Library - Presented by Dragonflight Game Con
+Board and RPG Gaming - Tahoma 4 [All Ages]
+Since 1980, Dragonflight Game Con has been introducing board game enthusiasts to a wide variety of games
+through their convention's extensive lending library of games. Now, you can experience that library here at
+Sakura-Con! Visit the Dragonflight...
 Sat 2:30 PM – 6:30 PM Magic: the Gathering – Free Curated Chaos Draft
 TCG Gaming - Tahoma 5 [All Ages]
 Presented by MTGPlatinum.com! Come and enjoy a completely free, curated draft experience reaching
@@ -2728,16 +2881,16 @@ Board and RPG Gaming - Tahoma 4 [All Ages]
 The Earth Kingdom and the Fire Nation have both laid claim to Natsuo Island and the old temple that has been
 recently discovered there. Firelord Roku has asked the crew of the Unity to investigate the island and settle the
 matter to everyone’s...
-```
-
-Sat — Arch Tower p. 48
-
-```
 Sat 3:30 PM – 5:30 PM D&D 5e (2024): Eight Kolbolds and a Baby (dragon): An Intro adventure
 Board and RPG Gaming - Tahoma 4 [All Ages]
 You have been hired to find and return the egg of a friendly copper dragon. , A band of kobolds recently stole
 said egg and brought it to a nearby cave to eat. But when the egg hatched, and a screeching dragon wyrmling
 emerged, the kobolds quickly...
+```
+
+Sat — Arch Tower p. 50
+
+```
 Sat 3:30 PM – 5:30 PM One Piece TCG - Free Starter Deck Tournament
 TCG Gaming - Tahoma 5 [All Ages]
 Reservation tickets will be available at the TCG Infodesk on the day of the event. Unclaimed spots will be filled
@@ -2751,6 +2904,13 @@ Board and RPG Gaming - Tahoma 4 [18+]
 The year is 2098 and you are crew on the spaceship Sakigake conducting a mineral survey on the surface of
 Pluto. But when you begin your journey back to earth, disaster strikes. A red-black swirling celestial body
 crashes into Pluto causing untold...
+Sat 4:00 PM – Sun 1:00
+AM
+```
+```
+Learn to play mahjong
+Mahjong - Skagit 4-5
+Learn to play Japanese riichi mahjong with one of our teachers!
 Sat 4:00 PM – 6:00 PM Paranoia: Hello Crawlers!!!!
 Board and RPG Gaming - Tahoma 4 [13+]
 W-W-Welcome to the World Dungeon! Congratulations on making it to the most exciting (and probably last...)
@@ -2786,16 +2946,16 @@ Board and RPG Gaming - Tahoma 4 [13+]
 Help your friend get a date with their crush at Adventuring Camp! We will do a bit of mad-libs style of improv to
 create the love interest and the romantic rival as a group. The players will decide who is going to be the
 pursuer, and everyone else...
-```
-
-Sat — Arch Tower p. 49
-
-```
 Sat 4:30 PM – 6:30 PM D&D 5e: To Be The Very Best
 Board and RPG Gaming - Tahoma 4 [All Ages]
 Festival bells cut loud through the air! Adventurers are gathering to celebrate the Wild Monster Capture
 Festival. Tame wild monsters, team up with them in honorable combat, and you could win not only gold, but
 fame and renown! , --- , Game Host:...
+```
+
+Sat — Arch Tower p. 51
+
+```
 Sat 4:30 PM – 6:30 PM Fabula Ultima TTJRPG: PRESS START Tutorial: A Fated Descent
 Board and RPG Gaming - Tahoma 4 [13+]
 The award-winning Fabula Ultima is designed to recreate the wondrous worlds, characters and stories seen in
@@ -2847,15 +3007,15 @@ TCG Gaming - Tahoma 5 [All Ages]
 This one's new! Echoes of Astra is a brand-new TCG from Parhelion Studios, an anime art themed game that
 mixes traditional TCG Gameplay with the tactical depth of war gaming! All wrapped in the package of some
 beautiful cardboard. If you want to...
-```
-
-Sat — Arch Tower p. 50
-
-```
 Sat 6:00 PM – 9:00 PM FGC Trivia 2
 Tournament Gaming - Tahoma 3 [10+]
 Round 2 of fighting game knowledge! More questions, more rounds, more chances to flex your FGC expertise.
 Grab your team and dominate! Win prizes!
+```
+
+Sat — Arch Tower p. 52
+
+```
 Sat 6:00 PM – 9:00 PM HoloLive TCG - Free Beginner Tournament
 TCG Gaming - Tahoma 5 [All Ages]
 Whether you've just learned to play or are already a fan, this beginner tournament is for you. Loaner decks will
@@ -2908,21 +3068,31 @@ TCG Gaming - Tahoma 5 [All Ages]
 Presented by MTGPlatinum.com! Come and enjoy a completely free, curated draft experience reaching
 through MTG history to provide you with an unpredictable experience you won’t find anywhere else All Curated
 Chaos drafts are three rounds of...
-```
-
-Sat — Arch Tower p. 51
-
-```
 Sat 7:00 PM – 11:00 PM Ryuutama: Eat Your Veggies Before They Eat You – A Delicious In Dungeon Inspired
 Adventure
 Board and RPG Gaming - Tahoma 4 [All Ages]
 Calling all dungeon delvers with an appetite for adventure! Rumor abounds of a mythical, monstrous vegetable
 that grants amazing strength and magical powers. You and your party are tasked with acquiring this legendary
 vegetable while eating your way...
+```
+
+Sat — Arch Tower p. 53
+
+```
 Sat 7:00 PM – 9:00 PM Super Smash Bros. Ultimate Top 8 Tournament
 Tournament Gaming - Tahoma 3 [10+]
 The best of the best clash in the grand finals! Watch the tournament champions crowned in the hypest Smash
 matches of the weekend!
+Sat 7:30 PM – 11:59 PM Alexandria RPG Library Presents: Classic, Modern & Indie RPGs
+Board and RPG Gaming - Tahoma 4 [All Ages]
+Visit the Alexandria RPG Library and explore over a thousand RPG rulebooks, modules, and player aids from
+countless game systems. From classic D&D to indie darlings, from cyberpunk noir to magical pirates. We bring
+all the dice, maps, books, and...
+Sat 7:30 PM – 11:59 PM Board Game Library - Presented by Dragonflight Game Con
+Board and RPG Gaming - Tahoma 4 [All Ages]
+Since 1980, Dragonflight Game Con has been introducing board game enthusiasts to a wide variety of games
+through their convention's extensive lending library of games. Now, you can experience that library here at
+Sakura-Con! Visit the Dragonflight...
 Sat 7:30 PM – 11:30 PM Daggerheart: Witch of the Meadowbrook Bog
 Board and RPG Gaming - Tahoma 4 [13+]
 There is a distraught parent in the tiny town of Meadowsbrook, asking for assistance to have their lost infant
@@ -2969,7 +3139,7 @@ The legacy Guilty Gear experience! Faster, more technical, and absolutely cracke
 their fighting games with extra spice. Win prizes!
 ```
 
-Sat — Arch Tower p. 52
+Sat — Arch Tower p. 54
 
 ```
 Sat 9:00 PM – 11:00 PM Nachatte Murder Mystery: A Pseudo Murder Mystery : A Snowed-In Tragedy
@@ -3036,7 +3206,7 @@ Social Deception will keep running as long as we have volunteers & players! Won'
 (deceiving).
 ```
 
-Sat — Arch Tower p. 53
+Sat — Arch Tower p. 55
 
 ```
 Sat 10:30 PM – Sun
@@ -3060,7 +3230,7 @@ scale that truly matters: Smash or Pass. From Y’shtola’s murder-mommy energy
 trench coat arc, no NPC is...
 ```
 
-Sat — Summit p. 54
+Sat — Summit p. 56
 
 #### Summit — Saturday, April 4
 
@@ -3122,7 +3292,7 @@ the potential to win prizes and flex their knowledge in a fun environment. Guess
 anime, and general trivia...
 ```
 
-Sat — Summit p. 55
+Sat — Summit p. 57
 
 ```
 Sat 11:00 AM – 6:00 PM Charity Auction Viewing
@@ -3184,7 +3354,7 @@ sculpture. From angles to self-similarity, bases to grafts, you'll learn about s
 that make up origami,...
 ```
 
-Sat — Summit p. 56
+Sat — Summit p. 58
 
 ```
 Sat 12:00 PM – 1:00 PM Japanese Tea Ceremony
@@ -3245,7 +3415,7 @@ Test-Your-Fandom games with our club members. Would you survive our everyday tee
 does an Anime Club look like in an American High...
 ```
 
-Sat — Summit p. 57
+Sat — Summit p. 59
 
 ```
 Sat 1:15 PM – 2:15 PM Hop Hop Hooray! Ra*bits Enstars Idol Panel Featured by Starlight Idols
@@ -3253,6 +3423,8 @@ Summit Prog Panels - 445-446 [All Ages]
 Looking for a fun panel to watch performances, play games and join in on a RDP? Hop on by Starlight Idol’s
 Ra*bits panel! This panel will be full of cute performances, a kpop & jpop random dance, exciting games and
 enstars themed prizes. Whether...
+Sat 1:30 PM – 2:30 PM The Fabulous Furoshiki – Japanese Cloth Wrapping Techniques
+Summit Prog Panels - 447-448 • Cultural Panel [All Ages]
 Sat 1:45 PM – 2:45 PM Paradox Live Tournament
 Dance Lessons - 420-422 [13+]
 Welcome to the Paradox Live Tournament! You will be chosen to represent one of the 8 Paralive Groups and
@@ -3295,6 +3467,16 @@ Summit Prog Panels - 440-442 [13+]
 Glasses are really versatile! Come see just how much anime can do with glasses as a prop and character
 design tool, with plenty of examples of funky frames and spectacularly bespectacled specimens. We've got the
 anime glasses gleam, we've got cyber...
+Sat 3:00 PM – 4:00 PM Cute or Creepy Romance in Anime the Final Chapter
+Summit Prog Panels - 443-444 [13+]
+Back again for our fourth (and final?) year, and we've got all new clips from primarily your suggestions, but a
+few of our own finds as well. Romance in anime might look appealing on the screen, but if you saw it in real
+life, do you think it would...
+```
+
+Sat — Summit p. 60
+
+```
 Sat 3:00 PM – 4:30 PM Free Build Session
 Mecha Modeling Workshop - 327
 There will be a limited number of FREE kits available at each Free Build Session. These kits are first come,
@@ -3305,21 +3487,11 @@ Dance Lessons - 420-422 [All Ages]
 Back again this year is HEARTWAV3’s all around RDP! A Random Dance Play (RDP) is where we play a
 variety of songs, and anyone who knows the choreography can jump in and dance. With 80+ songs across
 K-Pop, J-Pop, Vocaloid, and idol media, our RDP...
-```
-
-Sat — Summit p. 58
-
-```
 Sat 3:00 PM – 4:00 PM Work in Japan on the JET Program: Info Session (Panel)
 Summit Prog Panels - 447-448 • Cultural Panel [All Ages]
 Are you interested in working in Japan? The Japan Exchange Teaching (JET) Program has brought over
 80,000 participants from more than 80 countries to work in schools, boards of education, and government
 offices throughout Japan! The JET Program is...
-Sat 3:15 PM – 4:15 PM Cute or Creepy Romance in Anime the Final Chapter
-Summit Prog Panels - 443-444 [13+]
-Back again for our fourth (and final?) year, and we've got all new clips from primarily your suggestions, but a
-few of our own finds as well. Romance in anime might look appealing on the screen, but if you saw it in real
-life, do you think it would...
 Sat 3:30 PM – 4:30 PM David Matranga AMA
 Guest/Industry Panels - 433-434 • Guest of Honor
 Sat 3:30 PM – 5:00 PM Ghost in the Shell and the Stray Dog of Anime Mamoru Oshii
@@ -3360,16 +3532,16 @@ Summit Prog Panels - 443-444 [All Ages]
 Live performance of music from some of our favorite video games; arranged for wind quintet, plus fantastic
 guest artists. Video game music encompasses an incredible variety of genres and styles, setting the mood for
 your immersive experience. We...
+```
+
+Sat — Summit p. 61
+
+```
 Sat 4:30 PM – 6:30 PM Triple Fusion Tunes: A Tribute Concert To The Persona Series
 Summit Prog Panels - 343-344 [13+]
 This will be a tribute concert to the persona series with an assorted setlist of songs from Persona 3,4, and 5
 performed by the host. She first did this concert almost two years ago as part of an event for her Music
 Production Club at UW Bothell and...
-```
-
-Sat — Summit p. 59
-
-```
 Sat 4:30 PM – 5:30 PM Zapp's Cosplay Dressup Battle, of Love!
 Summit Prog Panels - 345-346 [13+]
 Go toe-to-toe with your friends, enemies, frenemies, or even random people, in a fast paced cosplay
@@ -3421,16 +3593,16 @@ Summit Prog Panels - 345-346 [13+]
 A whole different kind of improv comedy show from the panelists who bring you Whose Line is it Anyway. With
 all new games to play, such as Mission Improbable, Time Warp, Film Noire, and more. Come join us for all the
 laughs and fun.
+```
+
+Sat — Summit p. 62
+
+```
 Sat 6:00 PM – 8:00 PM Mecha Modeling Contest
 Mecha Modeling Workshop - 327
 The contest will have prizes across five categories: 1. Best Over All , 2. Custom Build , 3. Advanced Build , 4.
 Straight Build , 5. People’s Choice While we do recommend pre-registering for the contest, on-site registration
 will also be available...
-```
-
-Sat — Summit p. 60
-
-```
 Sat 6:15 PM – 7:15 PM How to Idol: Dance Workshop
 Dance Lessons - 420-422 [All Ages]
 Are you interested in learning to dance like your favorite idols? Come learn tips & tricks from experienced idols
@@ -3483,16 +3655,16 @@ Summit Prog Panels - 340-342 [18+]
 Hey guys, did you know that a Gardevoir is coming to you tonight with a brutally spicy Jeopardy game? Do
 iconic Pokemon like Vaporeon, Lucario, and Lopunny make you feel a certain way? In this fast-paced barrage
 of cultured Pokemon content, teams of...
+```
+
+Sat — Summit p. 63
+
+```
 Sat 7:45 PM – 8:45 PM Multiverse Comedy Show
 Summit Prog Panels - 347-348 [All Ages]
 The world, nay the universe needs to laugh! Using the Improbability Drive to out-maneuver the Vogon fleet;
 we’ve gathered personalities from across the galaxies for a brand new show! Introducing "Multiverse Got
 Talent", a cosplay comedy show that...
-```
-
-Sat — Summit p. 61
-
-```
 Sat 8:00 PM – 10:00 PM Anime Survivor
 Summit Prog Panels - 440-442 [13+]
 Anime Survivor takes your favorite anime characters and strands them on an island where they have to
@@ -3546,12 +3718,12 @@ Sat 10:00 PM – 11:00 PM Oriana Peron Drag Show
 Summit Stage • Guest of Honor [13+]
 ```
 
-Sun — Arch p. 62
+Sun — Arch p. 64
 
 ## Sunday, April 5
 
 ```
-165 scheduled events
+175 scheduled events
 ```
 #### Arch — Sunday, April 5
 
@@ -3624,7 +3796,7 @@ Come learn everything you need to know to show your true dedication to YOUR oshi
 *is*? no worries! Today i will teach you the true art of dedication to one character.
 ```
 
-Sun — Arch p. 63
+Sun — Arch p. 65
 
 ```
 Sun 10:00 AM – 11:00
@@ -3640,8 +3812,11 @@ Sun 11:00 AM – 12:00
 PM
 ```
 ```
-Crunchyroll Premieres Round 3
+Crunchyroll Presents: Dr. STONE Season 4 and The Drops of God Premiere Screening
 Guest/Industry Panels/Premiers - Ballroom 2 [13+]
+Fermentation is a science, right? One of these guys drinks exquisite wine and the other... makes cola? OK.
+Two different drinks, but the food science is there! Join us for two premiere screenings of The Drops of God
+and Dr. STONE S4 Cour 2!
 Sun 11:00 AM – 4:00 PM Dreamland Maid Cafe
 Dreamland Maid Cafe - Elliot Bay Room [All Ages]
 Sun 11:00 AM – 12:30
@@ -3720,6 +3895,11 @@ AMV Theater - 6C [13+]
 ANIME SHOWING (Dubbed) Soma Yukihira dreams of surpassing his father as a chef in their family diner.
 When his father suddenly closes the restaurant and enrolls him in the elite Totsuki Culinary Academy, Soma
 must prove himself among the nation’s...
+```
+
+Sun — Arch p. 66
+
+```
 Sun 11:30 AM – 12:30
 PM
 ```
@@ -3728,11 +3908,6 @@ The Voices Behind the Heroes!
 Guest/Industry Panels/Premiers - Ballroom 3 • Guest of Honor [10+]
 Come meet some of the voices behind your favorite heroes! Sonny Strait, Kristen McGuire, David Matranga,
 and Brittney Karbowski come together to chat about My Hero Academia.
-```
-
-Sun — Arch p. 64
-
-```
 Sun 11:30 AM – 12:30
 PM
 ```
@@ -3742,11 +3917,11 @@ Arch Prog Panels - 310 [13+]
 The Five Star stories, one of the longest running mecha space opera's you have probably never heard of. First
 published in Newtype magazine in April 1986, it tells the history of the Joker Star Cluster, the wars, the mecha,
 and it's gods. After 40...
-Sun 11:45 AM – 1:00 PM Astroboy Episodes 1-3
-AMV Workshop - 611-612 [All Ages]
-ANIME SHOWING (1980 - Dubbed) Created by manga pioneer Osamu Tezuka, Astro Boy tells the story of a
-powerful robot built in the image of a young boy. Possessing incredible abilities but longing for acceptance,
-Astro fights crime and injustice while...
+Sun 11:45 AM – 1:00 PM Made in Abyss Episodes 1-4
+AMV Workshop - 611-612 [13+]
+ANIME SHOWING (Dubbed) Young cave raider Riko dreams of finding her missing mother in the mysterious,
+monster-filled Abyss. After discovering Reg, a powerful robot boy with no memory of his past, the two set out
+together into the Abyss’s depths.
 Sun 12:00 PM – 1:00 PM AMV Contest Winners Showcase
 Mainstage - 4AB [13+]
 Come see all the winners from our AMV Contests!
@@ -3785,8 +3960,16 @@ Arch Prog Panels - 310 [13+]
 Have you ever wondered if your favorite shonen protagonist would be good at running a massive tax evasion
 scheme? What about how your favorite ship would stack up against the rest in a knitting competition? In this
 zany panel, we're going to use a...
-Sun 1:00 PM – 2:00 PM Crunchyroll Premieres Round 4
+Sun 1:00 PM – 2:00 PM Crunchyroll Presents: LIAR GAME Premiere Screening
 Guest/Industry Panels/Premiers - Ballroom 2 [13+]
+College student, Nao Kanzaki, suddenly receives an odd letter and a suitcase containing 100 million yen.
+She’s been chosen to participate in the LIAR GAME, a high stakes psychological game where deception and
+betrayal is necessary. To survive, the...
+```
+
+Sun — Arch p. 67
+
+```
 Sun 1:00 PM – 2:00 PM Emi Nitta Autograph
 Autographs - Flex A and B • Autographs
 Sun 1:00 PM – 1:30 PM Indentifying & Navigating Fabrics without Joanns
@@ -3794,11 +3977,6 @@ Arch Prog Panels - 307-308 [All Ages]
 Fabrics are amazing, and also super confusing. Losing Joanns Fabrics and forcing lots of us to buy online has
 made it all the more intimidating to start making a cosplay. With this panel, hopefully it will be less intimating,
 as we cover topics like...
-```
-
-Sun — Arch p. 65
-
-```
 Sun 1:00 PM – 2:00 PM Seibu Ryu Iai-Battojutsu - Art of The Japanese Sword
 SakuraDome - 6E • Cultural Panel [13+]
 Our presentation is a 1-hour demonstration of the Japanese martial art of Iai-Battojutsu. In the presentation,
@@ -3845,6 +4023,11 @@ Arch Prog Panels - 310 [All Ages]
 Fund Your Future, Fuel Your Fandom! Love conventions but worried about money—and your parents nagging
 you to get your act together? Learn how to start early by funding your retirement at 18–21, then focus flexible
 jobs. Learn how to budget for...
+```
+
+Sun — Arch p. 68
+
+```
 Sun 2:30 PM – 3:30 PM Gender, Genre, and Games in Sports Anime
 Arch Prog Panels - 305 [13+]
 What makes a sports anime a sports anime? Is it the thrill of the competition? The forced team building? The
@@ -3855,11 +4038,6 @@ AMV Workshop - 611-612 [13+]
 We'll be walking through the recent history of yuri, now illustrated with AMVs! Join us as we explore the
 modern multigenre explosion of yuri, with mecha, isekai, workplace romances, and more! Have your yuri with a
 side of some of the most awesome...
-```
-
-Sun — Arch p. 66
-
-```
 Sun 3:00 PM – 4:00 PM AMV Gauntlet Finale: The Ship To End All Ships!
 AMV Theater - 6C [13+]
 Witness the finale of Sakura-Con's weekend-long editing showdown! In true Iron Editor style, teams battle
@@ -3899,7 +4077,7 @@ Sun 4:00 PM – 5:00 PM Closing Ceremonies
 Mainstage - 4AB [All Ages]
 ```
 
-Sun — Arch Tower p. 67
+Sun — Arch Tower p. 69
 
 #### Arch Tower — Sunday, April 5
 
@@ -3911,11 +4089,35 @@ timeblock! Sign up for the next game, or join in midway as a traveler!
 Sun 8:00 AM – 11:00 AM Social Deception: Open-Play
 Social Deception Games 1 - Skagit 2 [10+]
 Social Deception invites you to come play games from our collection! Self-guided, or run w/ staff help!
+Sun 9:00 AM – 4:30 PM DRAW PHASE Presents TCGs @ Sakura-Con - Sunday
+TCG Gaming - Tahoma 5 [All Ages]
+Welcome to the Sakura-Con x DRAW PHASE 2026 Trading Card Games room! We'll be running totally FREE
+events wall to wall all weekend long, from Learn to Play events, to Drafts, Sealed, Constructed, and more for
+some of your favorite games! Any event...
 Sun 9:00 AM – 11:00 AM Digimon Card Game – Learn to Play
 TCG Gaming - Tahoma 5 [All Ages]
 Di-Di-Digimon! Digital Monsters, The Card Game! Come help to save the digital world and learn to play this
 rich card game that has captivated audiences since 2020! Change yourself into a digital champion and save
 the digital world. And after you're...
+Sun 9:00 AM – 3:00 PM Flesh and Blood – Learn to Play
+TCG Gaming - Tahoma 5 [All Ages]
+Dear Con-goer, do you desire Flesh? Do you desire Blood? Perhaps even both at the same time? In that case,
+we at the TCG Room have you covered. Come see us and one of our Flesh Experts (Blood Experts available
+upon request) will teach you all the...
+Sun 9:00 AM – 3:00 PM Learn to play mahjong
+Mahjong - Skagit 4-5
+Learn to play Japanese riichi mahjong with one of our teachers!
+Sun 9:00 AM – 3:30 PM Magic: the Gathering – Casual Commander w/ Loaner Library
+TCG Gaming - Tahoma 5 [All Ages]
+Come play a casual Commander game with friends, strangers, or even DRAW PHASE Staff! Pods of 4 will be
+seated on-demand. No deck? No problem! We've got a library of pre-constructed decks you can borrow for the
+duration of your game. All...
+Sun 9:00 AM – 3:00 PM Mahjong freeplay
+Mahjong - Skagit 4-5
+Play mahjong with other attendees at one of our many tables. An annual classic.
+Sun 9:00 AM – 4:00 PM Retro/Console Freeplay
+Retro and Console Gaming - Tahoma 1-2 [All Ages]
+Check in at Console Gaming for live content and more all weekend!
 Sun 9:00 AM – 11:00 AM Rhythm Gaming Freeplay
 Retro and Console Gaming - Tahoma 1-2 [10+]
 Get your groove in with up to three other players in Just Dance, mimic silhouettes to iconic pop hits! Featuring
@@ -3925,6 +4127,24 @@ TCG Gaming - Tahoma 5 [All Ages]
 You’ve learned how to start the fight, Champion – now let’s find out if you can finish it. Take up your provided
 starter deck, and go toe-to-toe with your peers in a test of skill alone. But remember: even in defeat, there is
 victory... in the form of...
+Sun 10:00 AM – 2:00 PM Alexandria RPG Library Presents: Classic, Modern & Indie RPGs
+Board and RPG Gaming - Tahoma 4 [All Ages]
+Visit the Alexandria RPG Library and explore over a thousand RPG rulebooks, modules, and player aids from
+countless game systems. From classic D&D to indie darlings, from cyberpunk noir to magical pirates. We bring
+all the dice, maps, books, and...
+```
+
+Sun — Arch Tower p. 70
+
+```
+Sun 10:00 AM – 4:00 PM Board Game Library - Presented by Dragonflight Game Con
+Board and RPG Gaming - Tahoma 4 [All Ages]
+Since 1980, Dragonflight Game Con has been introducing board game enthusiasts to a wide variety of games
+through their convention's extensive lending library of games. Now, you can experience that library here at
+Sakura-Con! Visit the Dragonflight...
+Sun 10:00 AM – 3:00 PM Go lessons/Free play
+Go and Shogi - Chelan 2 [All Ages]
+Come learn/play the ancient game of Go! Beginners very welcome
 Sun 10:00 AM – 11:00
 AM
 ```
@@ -3963,11 +4183,9 @@ Board and RPG Gaming - Tahoma 4 [All Ages]
 Learn to build an RPG character, or play one of the Alexandria RPG Library's collection of solo RPGs!
 Alexandria's crew of Librarians and GMs will be on hand to help you flesh out your character concept, or
 demonstrate RPG games that can be played...
-```
-
-Sun — Arch Tower p. 68
-
-```
+Sun 10:00 AM – 3:00 PM Shogi lessons/Free play
+Go and Shogi - Chelan 2 [All Ages]
+Come learn/play the ancient game of Shogi! Beginners very welcome
 Sun 10:00 AM – 1:00 PM Starfinder Society: Mystery of the Frozen Moon [SFS2 1-02]
 Board and RPG Gaming - Tahoma 4 [13+]
 A Starfinder Society Scenario designed for 1st- through 2nd-level characters, playable in 2-3 hours. , Known to
@@ -3991,6 +4209,11 @@ Board and RPG Gaming - Tahoma 4 [18+]
 After going to sleep in your bed, you awake in the night to an unnerving scene. You find your self in a square
 room surrounded by strangers and in the center is a lone desk and chair. On the desk sits a bowl of bright red
 soup and a note that reads,...
+```
+
+Sun — Arch Tower p. 71
+
+```
 Sun 10:30 AM – 2:30 PM Exalted Essence: Wedding Crashers
 Board and RPG Gaming - Tahoma 4 [13+]
 A mixed circle of Exalts crash a destination wedding to cause chaos and stop (or start) the Civil War. If you
@@ -4030,11 +4253,6 @@ Sun 11:00 AM – 2:00 PM Rock Paper Scissors: Hit and Cover Tournament
 Tournament Gaming - Tahoma 3 [10+]
 Not just RPS—Hit and Cover rules from Japan add layers of mind games! Best of luck, champion of children's
 games.
-```
-
-Sun — Arch Tower p. 69
-
-```
 Sun 11:00 AM – 12:00
 PM
 ```
@@ -4065,6 +4283,11 @@ Travel back in time to 2010 and relive the format as it was in the days of the l
 ```
 - as held in the eponymous Edison, NJ. Three rounds of best-of-one games. All participants will receive a
 ticket for the Grand Giveaway, as...
+
+
+Sun — Arch Tower p. 72
+
+```
 Sun 11:30 AM – 3:30 PM Digimon Card Game - Free Sealed Tournament
 TCG Gaming - Tahoma 5 [All Ages]
 I've run out of Digimon puns and lyrics, so unfortunately you'll just have to settle with a Sealed tournament for
@@ -4077,7 +4300,7 @@ as you dance to the tune of a long-dead master. You all arrive at a palatial est
 clouds roll in. Each of...
 Sun 11:30 AM – 12:30
 PM
-
+```
 ```
 Square Enix's SaGa Series
 Gaming Panels - Skagit 1 [13+]
@@ -4107,11 +4330,6 @@ Board and RPG Gaming - Tahoma 4 [13+]
 Eyes on the Prize is a collaborative game of court intrigue and fake dating, in which players assume the role of
 characters in a couple pretending to be very much in love in order to climb the social ladder of the court for
 personal gain: be that...
-```
-
-Sun — Arch Tower p. 70
-
-```
 Sun 12:00 PM – 3:00 PM Flesh and Blood - Free Silver Age Precon Tournament
 TCG Gaming - Tahoma 5 [All Ages]
 Step into the arena with FREE ready-to-play Silver Age preconstructed decks, officially sponsored by LSS.
@@ -4129,6 +4347,11 @@ Board and RPG Gaming - Tahoma 4 [13+]
 Your group of magistrates has been summoned from the territories of all the Great Clans, to a remote
 stronghold on the edge of Crab Clan territory. The locals believe an evil is plaguing the land, and recent
 tremors have them whispering that the...
+```
+
+Sun — Arch Tower p. 73
+
+```
 Sun 12:00 PM – 3:00 PM Social Deception: Open-Play
 Social Deception Games 1 - Skagit 2 [10+]
 Social Deception invites you to come play games from our collection! Self-guided, or run w/ staff help!
@@ -4163,16 +4386,16 @@ Sun 1:30 PM – 3:30 PM Rhythm Gaming Freeplay
 Retro and Console Gaming - Tahoma 1-2 [10+]
 Get your groove in with up to three other players in Just Dance, mimic silhouettes to iconic pop hits! Featuring
 other rhythm surprises as well!
+Sun 2:00 PM – 5:00 PM Alexandria RPG Library Presents: Classic, Modern & Indie RPGs
+Board and RPG Gaming - Tahoma 4 [All Ages]
+Visit the Alexandria RPG Library and explore over a thousand RPG rulebooks, modules, and player aids from
+countless game systems. From classic D&D to indie darlings, from cyberpunk noir to magical pirates. We bring
+all the dice, maps, books, and...
 Sun 2:30 PM – 3:30 PM Super Mario Bros Super Panel
 Gaming Panels - Skagit 1 [13+]
 Mario games have been a pinnacle of consistency for the video game industry. Mario media adaptations have
 been the same thing, but in the opposite direction. Let’s delve into old Mario media, from the live action movie
 to the Super Show, and decide...
-```
-
-Sun — Arch Tower p. 71
-
-```
 Sun 2:30 PM – 4:30 PM Wander Witch: A Cozy RPG of Fairies and Witches: A Spoonful of Sunlight, A
 Saucerful of Stars
 Board and RPG Gaming - Tahoma 4 [All Ages]
@@ -4184,6 +4407,11 @@ Board and RPG Gaming - Tahoma 4 [All Ages]
 Festival bells cut loud through the air! Adventurers are gathering to celebrate the Wild Monster Capture
 Festival. Tame wild monsters, team up with them in honorable combat, and you could win not only gold, but
 fame and renown! , --- , Game Host:...
+```
+
+Sun — Arch Tower p. 74
+
+```
 Sun 3:00 PM – 5:00 PM Nachatte Murder Mystery: A Pseudo Murder Mystery : A Snowed-In Tragedy
 Board and RPG Gaming - Tahoma 4 [13+]
 In the remote, snow-covered mountains, a secluded cabin offers warmth and refuge to weary travelers. A
@@ -4213,7 +4441,7 @@ Do you feel... lucky? Come see if all those tickets you’ve accumulated from TC
 greatness and glory... or just a giant stuffed Pokémon. It’s close enough to greatness, if you ask us.
 ```
 
-Sun — Summit p. 72
+Sun — Summit p. 75
 
 #### Summit — Sunday, April 5
 
@@ -4233,11 +4461,7 @@ Summit Prog Panels - 347-348 [10+]
 Ever wondered about the musical structure of anime openings? Join us as we explore the musical
 complexities behind iconic openings like Attack on Titan and Frieren: Beyond Journey’s End. We’ll break down
 the harmony, form, and techniques that make...
-Sun 10:00 AM – 12:00
-PM
-```
-```
-Cosplay Swap Meet
+Sun 10:00 AM – 1:30 PM Cosplay Swap Meet
 Workshop Panels - 330 [All Ages]
 Bring any cosplays, accessories, or materials you no longer want and discover new items you’ll love! Half of
 the room will be reserved for attendees who want to manage their own "tables" on a first-come, first-served
@@ -4307,7 +4531,7 @@ members can try their luck at some jeopardy questions! A panel perfect for begin
 there's something for everyone here!...
 ```
 
-Sun — Summit p. 73
+Sun — Summit p. 76
 
 ```
 Sun 11:00 AM – 12:30
@@ -4345,10 +4569,10 @@ Americans first encountered the series thanks to the ADV localization, but what 
 What was the first translation of Neon...
 Sun 11:30 AM – 12:30
 PM
-Sun 11:30 AM – 1:00 PM Emi Nitta Concert
+```
+```
+Emi Nitta Concert
 Summit Stage [All Ages]
-```
-```
 Sun 11:30 AM – 1:00 PM Fabrication for Cosplay: 3D Printing and Laser Cutting
 Summit Prog Panels - 345-346 [All Ages]
 Are you having trouble getting the quality you want from your 3D-printed props? Or maybe you want to learn
@@ -4386,11 +4610,6 @@ Summit Prog Panels - 443-444 [13+]
 The Sakura Rangers present a Taskmaster style game show with a live audience. Come see your favorite
 jokers make fools of themselves with high energy shenanigans for the favor of our Task Ranger. Ps. the points
 are totally made up, but don't tell...
-Sun 12:00 PM – 1:30 PM Cosplay swap
-Workshop Panels - 330 [All Ages]
-Do you have any cosplay you don’t want? Do you want to trade your cosplay for a better one? Or have a
-cosplay that you just need to get rid of? Come join us with swapping cosplay (we ask that cosplay are washed
-and stay by the table if you want to...
 Sun 12:00 PM – 1:00 PM Japanese Tea Ceremony
 Tea Ceremony - 338-339 (Summit - Level 3) • Cultural Panel [All Ages]
 Presentation of Japanese culture through Japanese Tea Ceremony demonstration and lecture.
@@ -4399,16 +4618,16 @@ Summit Prog Panels - 447-448 • Cultural Panel [All Ages]
 Shroughout the world. Sogetsu emphasizes individual creative expression using the materials of nature as the
 medium. Megumi Schacher is a certified instructor with the rank of riji, which is the highest possible rank. She
 is an active member of...
-```
-
-Sun — Summit p. 74
-
-```
 Sun 12:15 PM – 1:15 PM How To Cosplay Chess - Creating Chaotic Cosplay Content
 Summit Prog Panels - 440-442 [13+]
 What do you get when you cross live theater, improv, and a bunch of cosplaying nerds? You get Cosplay
 Chess! If you've ever been curious about the event or have never heard of it before today, this is the panel for
 you! Join our panelists as we...
+```
+
+Sun — Summit p. 77
+
+```
 Sun 12:30 PM – 1:00 PM Bootlegs in anime merch and how to spot it
 Summit Prog Panels - 343-344 [All Ages]
 With the rise of anime merch and media, there are bootlegs hidden amongst the real merchandise. How do
@@ -4460,16 +4679,16 @@ Summit Prog Panels - 443-444 [10+]
 Guess the mech! Or guess the Tokusatsu hero! Get points for guessing from a multiple choice list. Get more
 points by guessing it before the multiple choice phase! If you can guess what it is just by its shape, you’ll get
 the most points! Of course,...
-```
-
-Sun — Summit p. 75
-
-```
 Sun 1:30 PM – 2:30 PM Point of Inspiration! Studio Ghibli in Your TTRPG World
 Summit Prog Panels - 440-442 [All Ages]
 You want to write a TTRPG campaign- where to start? Take a point of inspiration from your favorite stories!
 Join us as we discuss how to create a campaign you love. From world building to storytelling, we will explore
 how to write a game that shines...
+```
+
+Sun — Summit p. 78
+
+```
 Sun 2:00 PM – 3:30 PM A Trip To Edo: Learning to Tie a Traditional Kimono
 Workshop Panels - 330 [All Ages]
 An informative panel with volunteer models and host instructors guiding the audience through a step-by-step
@@ -4523,11 +4742,6 @@ Summit Prog Panels - 345-346 [All Ages]
 StarBloom Micomet Dance Live is a high-energy performance by Gossip Girlies inspired by the dynamic duo
 style of Hololive’s MiComet. This special set blends sharp choreography, expressive idol staging, and bright,
 character-driven presence to create...
-```
-
-Sun — Summit p. 76
-
-```
 Sun 2:45 PM – 4:00 PM The Chessies - Cosplay Chess Awards
 Summit Prog Panels - 440-442 [13+]
 Come relive the glory of the 2025 Cosplay Chess presentations and celebrate the pieces, fights, and fun! A

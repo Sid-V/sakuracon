@@ -4,6 +4,7 @@ import "./globals.css";
 import BottomNav from "@/components/BottomNav";
 import ThemeToggle from "@/components/ThemeToggle";
 import InfoPopover from "@/components/InfoPopover";
+import { Analytics } from "@vercel/analytics/next";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://sakuracon.vercel.app"),
@@ -100,6 +101,7 @@ export default function RootLayout({
 
         {/* Bottom nav */}
         <BottomNav />
+        <Analytics />
       </body>
     </html>
   );
